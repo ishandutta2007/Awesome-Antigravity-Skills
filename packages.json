@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T07:53:33.508Z",
+  "generatedAt": "2026-07-09T07:59:27.524Z",
   "bundles": {
     "core-dev": {
       "description": "Core development skills across languages, frameworks, and backend/frontend fundamentals.",
@@ -7,6 +7,8 @@
         "2slides-ppt-generator",
         "3d-web-experience",
         "add-app-clip",
+        "agent-framework-azure-ai-py",
+        "agentmail",
         "api-design-principles",
         "api-documenter",
         "api-testing-observability-api-mock",
@@ -69,6 +71,8 @@
       "skills": [
         "007",
         "accessibility-compliance-accessibility-audit",
+        "aegisops-ai",
+        "agentic-actions-auditor",
         "attack-tree-construction",
         "auth-implementation-patterns",
         "backend-security-coder",
@@ -123,6 +127,7 @@
     "k8s-core": {
       "description": "Kubernetes and service mesh essentials.",
       "skills": [
+        "aegisops-ai",
         "backend-architect",
         "devops-troubleshooter",
         "gitops-workflow",
@@ -145,6 +150,7 @@
     "data-core": {
       "description": "Data engineering and analytics foundations.",
       "skills": [
+        "adhx",
         "airflow-dag-patterns",
         "business-analyst",
         "content-marketer",
@@ -187,6 +193,8 @@
       "skills": [
         "007",
         "acceptance-orchestrator",
+        "agent-evaluation",
+        "agentflow",
         "airflow-dag-patterns",
         "api-testing-observability-api-mock",
         "application-performance-performance-optimization",

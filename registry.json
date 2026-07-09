@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T07:53:33.508Z",
-  "total": 326,
+  "generatedAt": "2026-07-09T07:59:27.524Z",
+  "total": 346,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -544,6 +544,310 @@
       "path": "plugins\\address-github-comments\\SKILL.md"
     },
     {
+      "id": "adhx",
+      "name": "adhx",
+      "description": "Fetch any X/Twitter post as clean LLM-friendly JSON. Converts x.com, twitter.com, or adhx.com links into structured data with full article content, author info, and engagement metrics. No scraping or browser required.",
+      "category": "data-ai",
+      "tags": [
+        "adhx"
+      ],
+      "triggers": [
+        "adhx",
+        "fetch",
+        "any",
+        "twitter",
+        "post",
+        "clean",
+        "llm",
+        "friendly",
+        "json",
+        "converts",
+        "com",
+        "links"
+      ],
+      "path": "plugins\\adhx\\SKILL.md"
+    },
+    {
+      "id": "advanced-evaluation",
+      "name": "advanced-evaluation",
+      "description": "This skill should be used when the user asks to \"implement LLM-as-judge\", \"compare model outputs\", \"create evaluation rubrics\", \"mitigate evaluation bias\", or mentions direct scoring, pairwise comparison, position bias, evaluation pipelines, or automated quality assessment.",
+      "category": "data-ai",
+      "tags": [
+        "advanced",
+        "evaluation"
+      ],
+      "triggers": [
+        "advanced",
+        "evaluation",
+        "skill",
+        "should",
+        "used",
+        "user",
+        "asks",
+        "llm",
+        "judge",
+        "compare",
+        "model",
+        "outputs"
+      ],
+      "path": "plugins\\advanced-evaluation\\SKILL.md"
+    },
+    {
+      "id": "advogado-criminal",
+      "name": "advogado-criminal",
+      "description": "Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.",
+      "category": "business",
+      "tags": [
+        "legal",
+        "brazilian-law",
+        "criminal-law",
+        "portuguese"
+      ],
+      "triggers": [
+        "legal",
+        "brazilian-law",
+        "criminal-law",
+        "portuguese",
+        "advogado",
+        "criminal",
+        "criminalista",
+        "especializado",
+        "em",
+        "maria",
+        "da",
+        "penha"
+      ],
+      "path": "plugins\\advogado-criminal\\SKILL.md"
+    },
+    {
+      "id": "advogado-especialista",
+      "name": "advogado-especialista",
+      "description": "Advogado especialista em todas as areas do Direito brasileiro: familia, criminal, trabalhista, tributario, consumidor, imobiliario, empresarial, civil e constitucional.",
+      "category": "business",
+      "tags": [
+        "legal",
+        "brazilian-law",
+        "multi-domain",
+        "portuguese"
+      ],
+      "triggers": [
+        "legal",
+        "brazilian-law",
+        "multi-domain",
+        "portuguese",
+        "advogado",
+        "especialista",
+        "em",
+        "todas",
+        "areas",
+        "do",
+        "direito",
+        "brasileiro"
+      ],
+      "path": "plugins\\advogado-especialista\\SKILL.md"
+    },
+    {
+      "id": "aegisops-ai",
+      "name": "aegisops-ai",
+      "description": "Autonomous DevSecOps & FinOps Guardrails. Orchestrates Gemini 3 Flash to audit Linux Kernel patches, Terraform cost drifts, and K8s compliance.",
+      "category": "infrastructure",
+      "tags": [
+        "aegisops",
+        "ai"
+      ],
+      "triggers": [
+        "aegisops",
+        "ai",
+        "autonomous",
+        "devsecops",
+        "finops",
+        "guardrails",
+        "orchestrates",
+        "gemini",
+        "flash",
+        "audit",
+        "linux",
+        "kernel"
+      ],
+      "path": "plugins\\aegisops-ai\\SKILL.md"
+    },
+    {
+      "id": "agent-creator",
+      "name": "agent-creator",
+      "description": "Create custom AI subagents with proper plugin structure, persona generation, and companion routing skills.",
+      "category": "data-ai",
+      "tags": [
+        "agent",
+        "creator"
+      ],
+      "triggers": [
+        "agent",
+        "creator",
+        "custom",
+        "ai",
+        "subagents",
+        "proper",
+        "plugin",
+        "structure",
+        "persona",
+        "generation",
+        "companion",
+        "routing"
+      ],
+      "path": "plugins\\agent-creator\\SKILL.md"
+    },
+    {
+      "id": "agent-evaluation",
+      "name": "agent-evaluation",
+      "description": "Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics, and production monitoring—where even top agents achieve less than 50% on real-world benchmarks",
+      "category": "infrastructure",
+      "tags": [
+        "agent",
+        "evaluation"
+      ],
+      "triggers": [
+        "agent",
+        "evaluation",
+        "testing",
+        "benchmarking",
+        "llm",
+        "agents",
+        "including",
+        "behavioral",
+        "capability",
+        "assessment",
+        "reliability",
+        "metrics"
+      ],
+      "path": "plugins\\agent-evaluation\\SKILL.md"
+    },
+    {
+      "id": "agent-framework-azure-ai-py",
+      "name": "agent-framework-azure-ai-py",
+      "description": "Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK.",
+      "category": "data-ai",
+      "tags": [
+        "agent",
+        "framework",
+        "azure",
+        "ai",
+        "py"
+      ],
+      "triggers": [
+        "agent",
+        "framework",
+        "azure",
+        "ai",
+        "py",
+        "persistent",
+        "agents",
+        "foundry",
+        "microsoft",
+        "python",
+        "sdk"
+      ],
+      "path": "plugins\\agent-framework-azure-ai-py\\SKILL.md"
+    },
+    {
+      "id": "agent-manager-skill",
+      "name": "agent-manager-skill",
+      "description": "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling.",
+      "category": "general",
+      "tags": [
+        "agent",
+        "manager",
+        "skill"
+      ],
+      "triggers": [
+        "agent",
+        "manager",
+        "skill",
+        "multiple",
+        "local",
+        "cli",
+        "agents",
+        "via",
+        "tmux",
+        "sessions",
+        "start",
+        "stop"
+      ],
+      "path": "plugins\\agent-manager-skill\\SKILL.md"
+    },
+    {
+      "id": "agent-memory",
+      "name": "agent-memory",
+      "description": "A hybrid memory system that provides persistent, searchable knowledge management for AI agents.",
+      "category": "data-ai",
+      "tags": [
+        "agent",
+        "memory"
+      ],
+      "triggers": [
+        "agent",
+        "memory",
+        "hybrid",
+        "provides",
+        "persistent",
+        "searchable",
+        "knowledge",
+        "ai",
+        "agents"
+      ],
+      "path": "plugins\\agent-memory\\SKILL.md"
+    },
+    {
+      "id": "agent-memory-mcp",
+      "name": "agent-memory-mcp",
+      "description": "A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Patterns, Decisions).",
+      "category": "data-ai",
+      "tags": [
+        "agent",
+        "memory",
+        "mcp"
+      ],
+      "triggers": [
+        "agent",
+        "memory",
+        "mcp",
+        "hybrid",
+        "provides",
+        "persistent",
+        "searchable",
+        "knowledge",
+        "ai",
+        "agents",
+        "architecture",
+        "decisions"
+      ],
+      "path": "plugins\\agent-memory-mcp\\SKILL.md"
+    },
+    {
+      "id": "agent-memory-systems",
+      "name": "agent-memory-systems",
+      "description": "Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. This skill covers the architecture of agent memory: short-term (context window), long-term (vector stores), and the cognitive architectures that organize them.",
+      "category": "security",
+      "tags": [
+        "agent",
+        "memory"
+      ],
+      "triggers": [
+        "agent",
+        "memory",
+        "cornerstone",
+        "intelligent",
+        "agents",
+        "without",
+        "every",
+        "interaction",
+        "starts",
+        "zero",
+        "skill",
+        "covers"
+      ],
+      "path": "plugins\\agent-memory-systems\\SKILL.md"
+    },
+    {
       "id": "agent-orchestration-improve-agent",
       "name": "agent-orchestration-improve-agent",
       "description": "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration.",
@@ -593,6 +897,200 @@
         "performance"
       ],
       "path": "plugins\\agent-orchestration-multi-agent-optimize\\SKILL.md"
+    },
+    {
+      "id": "agent-orchestrator",
+      "name": "agent-orchestrator",
+      "description": "Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.",
+      "category": "workflow",
+      "tags": [
+        "orchestration",
+        "multi-agent",
+        "workflow",
+        "automation"
+      ],
+      "triggers": [
+        "orchestration",
+        "multi-agent",
+        "workflow",
+        "automation",
+        "agent",
+        "orchestrator",
+        "meta",
+        "skill",
+        "que",
+        "orquestra",
+        "todos",
+        "os"
+      ],
+      "path": "plugins\\agent-orchestrator\\SKILL.md"
+    },
+    {
+      "id": "agent-self-scheduling",
+      "name": "agent-self-scheduling",
+      "description": "Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers.",
+      "category": "data-ai",
+      "tags": [
+        "agents",
+        "scheduling",
+        "automation",
+        "cron"
+      ],
+      "triggers": [
+        "agents",
+        "scheduling",
+        "automation",
+        "cron",
+        "agent",
+        "self",
+        "schedule",
+        "ai",
+        "runs",
+        "loops",
+        "external",
+        "clocks"
+      ],
+      "path": "plugins\\agent-self-scheduling\\SKILL.md"
+    },
+    {
+      "id": "agent-squad",
+      "name": "agent-squad",
+      "description": "Main agent orchestrator that coordinates a specialized squad of agents",
+      "category": "general",
+      "tags": [
+        "agent",
+        "squad"
+      ],
+      "triggers": [
+        "agent",
+        "squad",
+        "main",
+        "orchestrator",
+        "coordinates",
+        "specialized",
+        "agents"
+      ],
+      "path": "plugins\\agent-squad\\SKILL.md"
+    },
+    {
+      "id": "agent-tool-builder",
+      "name": "agent-tool-builder",
+      "description": "Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary. This skill covers tool design from schema to error handling.",
+      "category": "data-ai",
+      "tags": [
+        "agent",
+        "builder"
+      ],
+      "triggers": [
+        "agent",
+        "builder",
+        "how",
+        "ai",
+        "agents",
+        "interact",
+        "world",
+        "well",
+        "designed",
+        "difference",
+        "between",
+        "works"
+      ],
+      "path": "plugins\\agent-tool-builder\\SKILL.md"
+    },
+    {
+      "id": "agentflow",
+      "name": "agentflow",
+      "description": "Orchestrate autonomous AI development pipelines through your Kanban board (Asana, GitHub Projects, Linear). Manages multi-worker Claude Code dispatch, deterministic quality gates, adversarial review, per-task cost tracking, and crash-proof pipeline execution.",
+      "category": "infrastructure",
+      "tags": [
+        "agentflow"
+      ],
+      "triggers": [
+        "agentflow",
+        "orchestrate",
+        "autonomous",
+        "ai",
+        "development",
+        "pipelines",
+        "through",
+        "kanban",
+        "board",
+        "asana",
+        "github",
+        "linear"
+      ],
+      "path": "plugins\\agentflow\\SKILL.md"
+    },
+    {
+      "id": "agentfolio",
+      "name": "agentfolio",
+      "description": "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory.",
+      "category": "data-ai",
+      "tags": [
+        "agentfolio"
+      ],
+      "triggers": [
+        "agentfolio",
+        "skill",
+        "discovering",
+        "researching",
+        "autonomous",
+        "ai",
+        "agents",
+        "ecosystems",
+        "directory"
+      ],
+      "path": "plugins\\agentfolio\\SKILL.md"
+    },
+    {
+      "id": "agentic-actions-auditor",
+      "name": "agentic-actions-auditor",
+      "description": "Audits GitHub Actions workflows for security vulnerabilities in AI agent integrations  including Claude Code Action,  Gemini CLI, OpenAI Codex, and GitHub AI  Inference.  Detects attack vectors where attacker-controlled  input reaches. AI agents running in CI/CD pipelines.",
+      "category": "security",
+      "tags": [
+        "agentic",
+        "actions",
+        "auditor"
+      ],
+      "triggers": [
+        "agentic",
+        "actions",
+        "auditor",
+        "audits",
+        "github",
+        "security",
+        "vulnerabilities",
+        "ai",
+        "agent",
+        "integrations",
+        "including",
+        "claude"
+      ],
+      "path": "plugins\\agentic-actions-auditor\\SKILL.md"
+    },
+    {
+      "id": "agentmail",
+      "name": "agentmail",
+      "description": "Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.",
+      "category": "data-ai",
+      "tags": [
+        "agentmail"
+      ],
+      "triggers": [
+        "agentmail",
+        "email",
+        "infrastructure",
+        "ai",
+        "agents",
+        "accounts",
+        "send",
+        "receive",
+        "emails",
+        "webhooks",
+        "check",
+        "karma"
+      ],
+      "path": "plugins\\agentmail\\SKILL.md"
     },
     {
       "id": "ai-engineer",
