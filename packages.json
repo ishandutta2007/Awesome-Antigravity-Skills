@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-07-09T07:44:31.766Z",
+  "generatedAt": "2026-07-09T07:53:33.508Z",
   "bundles": {
     "core-dev": {
       "description": "Core development skills across languages, frameworks, and backend/frontend fundamentals.",
       "skills": [
         "2slides-ppt-generator",
+        "3d-web-experience",
+        "add-app-clip",
         "api-design-principles",
         "api-documenter",
         "api-testing-observability-api-mock",
@@ -184,6 +186,7 @@
       "description": "Operations, observability, and delivery pipelines.",
       "skills": [
         "007",
+        "acceptance-orchestrator",
         "airflow-dag-patterns",
         "api-testing-observability-api-mock",
         "application-performance-performance-optimization",
