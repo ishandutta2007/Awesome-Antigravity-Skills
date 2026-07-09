@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="auto">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#3b0764" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1"/>
+    </pattern>
+
+    <!-- Glowing Effect -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)" rx="16" />
+  <rect width="1200" height="300" fill="url(#grid)" rx="16" />
+
+  <!-- Abstract Shapes for Decoration -->
+  <circle cx="150" cy="50" r="120" fill="rgba(168, 85, 247, 0.15)" filter="url(#glow)" />
+  <circle cx="1050" cy="250" r="180" fill="rgba(56, 189, 248, 0.1)" filter="url(#glow)" />
+  
+  <path d="M 800 0 Q 900 150 1200 150 L 1200 0 Z" fill="rgba(139, 92, 246, 0.2)" />
+  
+  <!-- Content Group -->
+  <g transform="translate(600, 150)" text-anchor="middle">
+    <!-- Title -->
+    <text y="-20" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="72" fill="#ffffff" filter="url(#glow)">
+      NexaCore
+    </text>
+    
+    <!-- Subtitle -->
+    <text y="40" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="500" font-size="28" fill="#a5b4fc" letter-spacing="4">
+      PLUGIN MANAGER
+    </text>
+    
+    <!-- Tagline -->
+    <text y="90" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="400" font-size="18" fill="#94a3b8">
+      The Next-Generation Architecture for Autonomous AI Agents
+    </text>
+  </g>
+
+  <!-- Floating Tech Icons (Abstract SVG representation) -->
+  <g transform="translate(100, 150)" stroke="#38bdf8" stroke-width="2" fill="none">
+    <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" />
+    <circle cx="0" cy="0" r="10" />
+    <path d="M 0,-10 L 0,-30 M 8,5 L 26,15 M -8,5 L -26,15" />
+  </g>
+
+  <g transform="translate(1100, 120)" stroke="#a855f7" stroke-width="2" fill="none">
+    <rect x="-20" y="-20" width="40" height="40" rx="8" />
+    <circle cx="0" cy="0" r="8" />
+    <path d="M -20,0 L -30,0 M 20,0 L 30,0 M 0,-20 L 0,-30 M 0,20 L 0,30" />
+  </g>
+</svg>
