@@ -1,7 +1,147 @@
 {
-  "generatedAt": "2026-07-09T06:15:22.815Z",
-  "total": 306,
+  "generatedAt": "2026-07-09T07:44:31.766Z",
+  "total": 311,
   "skills": [
+    {
+      "id": "00-andruia-consultant",
+      "name": "00-andruia-consultant",
+      "description": "Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español.",
+      "category": "general",
+      "tags": [
+        "00",
+        "andruia",
+        "consultant"
+      ],
+      "triggers": [
+        "00",
+        "andruia",
+        "consultant",
+        "arquitecto",
+        "de",
+        "soluciones",
+        "principal",
+        "consultor",
+        "tecnol",
+        "gico",
+        "andru",
+        "ia"
+      ],
+      "path": "plugins\\00-andruia-consultant\\SKILL.md"
+    },
+    {
+      "id": "007",
+      "name": "007",
+      "description": "Security audit, hardening, threat modeling (STRIDE/PASTA), Red/Blue Team, OWASP checks, code review, incident response, and infrastructure security for any project.",
+      "category": "security",
+      "tags": [
+        "security",
+        "audit",
+        "owasp",
+        "threat-modeling",
+        "hardening",
+        "pentest"
+      ],
+      "triggers": [
+        "security",
+        "audit",
+        "owasp",
+        "threat-modeling",
+        "hardening",
+        "pentest",
+        "007",
+        "threat",
+        "modeling",
+        "stride",
+        "pasta",
+        "red"
+      ],
+      "path": "plugins\\007\\SKILL.md"
+    },
+    {
+      "id": "10-andruia-skill-smith",
+      "name": "10-andruia-skill-smith",
+      "description": "Ingeniero de Sistemas de Andru.ia. Diseña, redacta y despliega nuevas habilidades (skills) dentro del repositorio siguiendo el Estándar de Diamante.",
+      "category": "general",
+      "tags": [
+        "10",
+        "andruia",
+        "skill",
+        "smith"
+      ],
+      "triggers": [
+        "10",
+        "andruia",
+        "skill",
+        "smith",
+        "ingeniero",
+        "de",
+        "sistemas",
+        "andru",
+        "ia",
+        "dise",
+        "redacta",
+        "despliega"
+      ],
+      "path": "plugins\\10-andruia-skill-smith\\SKILL.md"
+    },
+    {
+      "id": "20-andruia-niche-intelligence",
+      "name": "20-andruia-niche-intelligence",
+      "description": "Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho específico de un proyecto para inyectar conocimientos, regulaciones y estándares únicos del sector. Actívalo tras definir el nicho.",
+      "category": "general",
+      "tags": [
+        "20",
+        "andruia",
+        "niche",
+        "intelligence"
+      ],
+      "triggers": [
+        "20",
+        "andruia",
+        "niche",
+        "intelligence",
+        "estratega",
+        "de",
+        "inteligencia",
+        "dominio",
+        "andru",
+        "ia",
+        "analiza",
+        "el"
+      ],
+      "path": "plugins\\20-andruia-niche-intelligence\\SKILL.md"
+    },
+    {
+      "id": "2slides-ppt-generator",
+      "name": "2slides-ppt-generator",
+      "description": "AI-powered presentation generation via the 2slides API — create slides from text, match a reference image style, summarize documents into decks, add AI voice narration, and export pages/audio. Use for any \"make slides\", \"create a deck\", or \"slides from this document\" request.",
+      "category": "data-ai",
+      "tags": [
+        "presentations",
+        "slides",
+        "powerpoint",
+        "ai",
+        "api-integration",
+        "pdf",
+        "narration",
+        "document-summarization"
+      ],
+      "triggers": [
+        "presentations",
+        "slides",
+        "powerpoint",
+        "ai",
+        "api-integration",
+        "pdf",
+        "narration",
+        "document-summarization",
+        "2slides",
+        "ppt",
+        "generator",
+        "powered"
+      ],
+      "path": "plugins\\2slides-ppt-generator\\SKILL.md"
+    },
     {
       "id": "accessibility-compliance-accessibility-audit",
       "name": "accessibility-compliance-accessibility-audit",
