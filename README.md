@@ -8,7 +8,7 @@
 
 <img src="./assets/banner.svg" alt="NexaCore Plugin Manager Banner" width="800" />
 
-# 🔮 NexaCore Plugin Manager 🔮
+# 🔮 Awesome-Antigravity-Skills 🔮
 
 **The Next-Generation Architecture for Autonomous AI Agents**
 
@@ -27,11 +27,11 @@
 
 ---
 
-## ⚡ What is NexaCore?
+## ⚡ What is Awesome-Antigravity-Skills?
 
-**NexaCore** (formerly known as Antigravity Skills) is a robust, lightning-fast plugin ecosystem designed from the ground up for modern developers. It empowers developers and AI agents alike to compose, manage, and distribute modular capabilities without friction. 
+**Awesome-Antigravity-Skills** is a robust, lightning-fast plugin ecosystem designed from the ground up for modern developers. It empowers developers and AI agents alike to compose, manage, and distribute modular capabilities without friction. 
 
-Whether you are extending an existing CLI or building a brand new autonomous agent, NexaCore acts as the central nervous system for your tools.
+Whether you are extending an existing CLI or building a brand new autonomous agent, Awesome-Antigravity-Skills acts as the central nervous system for your tools.
 
 ---
 
@@ -39,7 +39,7 @@ Whether you are extending an existing CLI or building a brand new autonomous age
 
 <details>
 <summary><b>1. 🚀 Blazing Fast Execution</b></summary>
-<p>Written entirely in optimized JavaScript, NexaCore ensures zero-latency plugin resolution and execution, minimizing the overhead for your agents.</p>
+<p>Written entirely in optimized JavaScript, Awesome-Antigravity-Skills ensures zero-latency plugin resolution and execution, minimizing the overhead for your agents.</p>
 </details>
 
 <details>
@@ -56,7 +56,7 @@ Whether you are extending an existing CLI or building a brand new autonomous age
 
 ## 🏗️ Architecture Overview
 
-The NexaCore ecosystem operates on a highly decoupled architecture. The diagram below illustrates how the internal systems interact:
+The Awesome-Antigravity-Skills ecosystem operates on a highly decoupled architecture. The diagram below illustrates how the internal systems interact:
 
 ```mermaid
 graph TD
@@ -75,7 +75,7 @@ graph TD
 
 | Directory | Purpose |
 |:---:|:---|
-| 📂 `core/` | The brain of NexaCore. Contains the schema validator and utility libraries. |
+| 📂 `core/` | The brain of Awesome-Antigravity-Skills. Contains the schema validator and utility libraries. |
 | 📂 `cli-entry/` | Houses the `cli.js` entrypoint for direct terminal invocation. |
 | 📂 `plugins/` | The raw source code and metadata for all available agent modules. |
 | 📂 `build-tools/` | Build scripts used to dynamically generate the `registry.json` cache. |
@@ -87,10 +87,10 @@ graph TD
 
 ### Installation
 
-NexaCore is deployed as a global package. Simply install it via NPM:
+Awesome-Antigravity-Skills is deployed as a global package. Simply install it via NPM:
 
 ```bash
-npm install -g @super-cool/plugin-manager
+npm install -g awesome-antigravity-skills
 ```
 
 ### CLI Quickstart
@@ -118,7 +118,7 @@ ag-skills doctor
 
 ## 🤝 Contributing
 
-We love contributions! If you're building a new plugin for NexaCore:
+We love contributions! If you're building a new plugin for Awesome-Antigravity-Skills:
 1. Fork this repository.
 2. Add your plugin under the `plugins/` directory.
 3. Ensure you have a valid `SKILL.md` defining your module.
@@ -129,5 +129,5 @@ We love contributions! If you're building a new plugin for NexaCore:
 ---
 
 <div align="center">
-  <p>Built with 🩵 by the NexaCore Community</p>
+  <p>Built with 🩵 by the Awesome-Antigravity-Skills Community</p>
 </div>

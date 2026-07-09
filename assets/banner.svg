@@ -32,8 +32,8 @@
   <!-- Content Group -->
   <g transform="translate(600, 150)" text-anchor="middle">
     <!-- Title -->
-    <text y="-20" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="72" fill="#ffffff" filter="url(#glow)">
-      NexaCore
+    <text y="-20" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="48" fill="#ffffff" filter="url(#glow)">
+      Awesome-Antigravity-Skills
     </text>
     
     <!-- Subtitle -->

@@ -1,9 +1,9 @@
 {
-  "name": "@super-cool/plugin-manager",
+  "name": "awesome-antigravity-skills",
   "version": "9.9.9",
-  "description": "The Ultimate Plugin Vault - Install awesome modules",
+  "description": "Awesome Antigravity Skills plugin vault",
   "bin": {
-    "super-plugins": "./cli-entry/cli.js"
+    "ag-skills": "./cli-entry/cli.js"
   },
   "files": [
     "cli-entry",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/super-cool/plugin-manager.git"
+    "url": "git+https://github.com/ishandutta2007/Awesome-Antigravity-Skills.git"
   },
   "keywords": [
     "awesome",
