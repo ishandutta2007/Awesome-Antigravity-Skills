@@ -1,0 +1,46 @@
+{
+  "name": "@super-cool/plugin-manager",
+  "version": "9.9.9",
+  "description": "The Ultimate Plugin Vault - Install awesome modules",
+  "bin": {
+    "super-plugins": "./cli-entry/cli.js"
+  },
+  "files": [
+    "cli-entry",
+    "core",
+    "build-tools",
+    "plugins",
+    "registry.json",
+    "REGISTRY.md",
+    "validation-baseline.json",
+    "packages.json",
+    "shortcuts.json",
+    "SECURITY.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "build:registry": "node build-tools/build-catalog.js",
+    "validate:plugins": "node build-tools/validate-skills.js",
+    "check:registry": "node build-tools/check-catalog-drift.js",
+    "test": "node --test specs/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-cool/plugin-manager.git"
+  },
+  "keywords": [
+    "awesome",
+    "plugins",
+    "modules",
+    "manager"
+  ],
+  "author": "super-cool",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0",
+    "yaml": "^2.8.2"
+  }
+}
