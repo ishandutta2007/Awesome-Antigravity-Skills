@@ -12,12 +12,14 @@
 
 **The Next-Generation Architecture for Autonomous AI Agents**
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=githubactions)](https://github.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-v2.0.0-purple.svg?style=for-the-badge&logo=semver)](https://github.com/)
 [![Node.js Required](https://img.shields.io/badge/Node.js-%3E%3D20.0-green.svg?style=for-the-badge&logo=nodedotjs)](https://nodejs.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/)
 [![Community](https://img.shields.io/badge/Discord-Join-7289da.svg?style=for-the-badge&logo=discord)](https://discord.com/)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <i>Supercharge your development workflow with hyper-optimized, composable modules.</i>
@@ -130,4 +132,15 @@ We love contributions! If you're building a new plugin for Awesome-Antigravity-S
 
 <div align="center">
   <p>Built with 🩵 by the Awesome-Antigravity-Skills Community</p>
+</div>
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Antigravity-Skills&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Antigravity-Skills&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Antigravity-Skills&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Antigravity-Skills&type=date&legend=bottom-right" />
+</picture>
+</a>
 </div>
