@@ -1,8 +1,8 @@
 # Skill Catalog
 
-Generated at: 2026-07-09T07:59:27.524Z
+Generated at: 2026-08-01T05:54:27.009Z
 
-Total skills: 346
+Total skills: 347
 
 ## architecture (31)
 
@@ -288,7 +288,7 @@ Total skills: 346
 | `test-automator` | Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with a... | automator | automator, test, ai, powered, automation, frameworks, self, healing, tests, quality, engineering, scalable |
 | `unity-developer` | Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform de... | unity | unity, developer, games, optimized, scripts, efficient, rendering, proper, asset, masters, lts, urp |
 
-## security (60)
+## security (61)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -352,6 +352,7 @@ Total skills: 346
 | `terraform-specialist` | Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module desi... | terraform | terraform, opentofu, mastering, iac, automation, state, enterprise, infrastructure, complex, module, multi, cloud |
 | `threat-mitigation-mapping` | Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validatin... | threat, mitigation, mapping | threat, mitigation, mapping, map, identified, threats, appropriate, security, controls, mitigations, prioritizing, investments |
 | `threat-modeling-expert` | Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters STRIDE, PASTA, attack trees, and security requirement ext... | threat, modeling | threat, modeling, methodologies, security, architecture, review, risk, assessment, masters, stride, pasta, attack |
+| `universal-clipboard-vision` | Zero-click image inspection and multi-screenshot visual debugging directly from the native Windows system clipboard (Win + Shift + S) across Antigravity, Cla... | universal, clipboard, vision | universal, clipboard, vision, zero, click, image, inspection, multi, screenshot, visual, debugging, directly |
 
 ## testing (18)
 

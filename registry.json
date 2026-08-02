@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T07:59:27.524Z",
-  "total": 346,
+  "generatedAt": "2026-08-01T05:54:27.009Z",
+  "total": 347,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -8395,6 +8395,32 @@
         "building"
       ],
       "path": "plugins\\unity-ecs-patterns\\SKILL.md"
+    },
+    {
+      "id": "universal-clipboard-vision",
+      "name": "universal-clipboard-vision",
+      "description": "Zero-click image inspection and multi-screenshot visual debugging directly from the native Windows system clipboard (Win + Shift + S) across Antigravity, Claude Code CLI, and Codex sessions without requiring developers to manually save temporary screenshot files to disk.",
+      "category": "security",
+      "tags": [
+        "universal",
+        "clipboard",
+        "vision"
+      ],
+      "triggers": [
+        "universal",
+        "clipboard",
+        "vision",
+        "zero",
+        "click",
+        "image",
+        "inspection",
+        "multi",
+        "screenshot",
+        "visual",
+        "debugging",
+        "directly"
+      ],
+      "path": "plugins\\universal-clipboard-vision\\SKILL.md"
     },
     {
       "id": "uv-package-manager",
