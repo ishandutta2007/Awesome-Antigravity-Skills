@@ -21,8 +21,11 @@
   ],
   "scripts": {
     "build:registry": "node build-tools/build-catalog.js",
+    "build:catalog": "node build-tools/build-catalog.js",
     "validate:plugins": "node build-tools/validate-skills.js",
+    "validate:skills": "node build-tools/validate-skills.js",
     "check:registry": "node build-tools/check-catalog-drift.js",
+    "check:catalog": "node build-tools/check-catalog-drift.js",
     "test": "node --test specs/*.test.js"
   },
   "repository": {
