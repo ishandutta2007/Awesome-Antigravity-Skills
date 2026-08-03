@@ -1,6 +1,6 @@
 # Skill Catalog
 
-Generated at: 2026-08-03T10:23:41.054Z
+Generated at: 2026-08-03T10:31:18.825Z
 
 Total skills: 347
 
