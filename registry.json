@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T05:54:27.009Z",
+  "generatedAt": "2026-08-03T10:31:18.825Z",
   "total": 347,
   "skills": [
     {
@@ -26,7 +26,7 @@
         "andru",
         "ia"
       ],
-      "path": "plugins\\00-andruia-consultant\\SKILL.md"
+      "path": "plugins/00-andruia-consultant/SKILL.md"
     },
     {
       "id": "007",
@@ -55,7 +55,7 @@
         "pasta",
         "red"
       ],
-      "path": "plugins\\007\\SKILL.md"
+      "path": "plugins/007/SKILL.md"
     },
     {
       "id": "10-andruia-skill-smith",
@@ -82,7 +82,7 @@
         "redacta",
         "despliega"
       ],
-      "path": "plugins\\10-andruia-skill-smith\\SKILL.md"
+      "path": "plugins/10-andruia-skill-smith/SKILL.md"
     },
     {
       "id": "20-andruia-niche-intelligence",
@@ -109,7 +109,7 @@
         "analiza",
         "el"
       ],
-      "path": "plugins\\20-andruia-niche-intelligence\\SKILL.md"
+      "path": "plugins/20-andruia-niche-intelligence/SKILL.md"
     },
     {
       "id": "2slides-ppt-generator",
@@ -140,7 +140,7 @@
         "generator",
         "powered"
       ],
-      "path": "plugins\\2slides-ppt-generator\\SKILL.md"
+      "path": "plugins/2slides-ppt-generator/SKILL.md"
     },
     {
       "id": "3d-web-experience",
@@ -166,7 +166,7 @@
         "webgl",
         "interactive"
       ],
-      "path": "plugins\\3d-web-experience\\SKILL.md"
+      "path": "plugins/3d-web-experience/SKILL.md"
     },
     {
       "id": "ab-test-setup",
@@ -191,7 +191,7 @@
         "metrics",
         "execution"
       ],
-      "path": "plugins\\ab-test-setup\\SKILL.md"
+      "path": "plugins/ab-test-setup/SKILL.md"
     },
     {
       "id": "ab-testing",
@@ -215,7 +215,7 @@
         "mentions",
         "split"
       ],
-      "path": "plugins\\ab-testing\\SKILL.md"
+      "path": "plugins/ab-testing/SKILL.md"
     },
     {
       "id": "acceptance-orchestrator",
@@ -240,7 +240,7 @@
         "deployment",
         "verification"
       ],
-      "path": "plugins\\acceptance-orchestrator\\SKILL.md"
+      "path": "plugins/acceptance-orchestrator/SKILL.md"
     },
     {
       "id": "accessibility-compliance-accessibility-audit",
@@ -266,7 +266,7 @@
         "audits",
         "identify"
       ],
-      "path": "plugins\\accessibility-compliance-accessibility-audit\\SKILL.md"
+      "path": "plugins/accessibility-compliance-accessibility-audit/SKILL.md"
     },
     {
       "id": "accesslint-audit",
@@ -291,7 +291,7 @@
         "sweep",
         "codebase"
       ],
-      "path": "plugins\\accesslint-audit\\SKILL.md"
+      "path": "plugins/accesslint-audit/SKILL.md"
     },
     {
       "id": "accesslint-diff",
@@ -316,7 +316,7 @@
         "uncommitted",
         "changes"
       ],
-      "path": "plugins\\accesslint-diff\\SKILL.md"
+      "path": "plugins/accesslint-diff/SKILL.md"
     },
     {
       "id": "accesslint-scan",
@@ -341,7 +341,7 @@
         "violation",
         "precisely"
       ],
-      "path": "plugins\\accesslint-scan\\SKILL.md"
+      "path": "plugins/accesslint-scan/SKILL.md"
     },
     {
       "id": "accint-commitments",
@@ -366,7 +366,7 @@
         "world",
         "verdicts"
       ],
-      "path": "plugins\\accint-commitments\\SKILL.md"
+      "path": "plugins/accint-commitments/SKILL.md"
     },
     {
       "id": "accint-frames",
@@ -391,7 +391,7 @@
         "headless",
         "runs"
       ],
-      "path": "plugins\\accint-frames\\SKILL.md"
+      "path": "plugins/accint-frames/SKILL.md"
     },
     {
       "id": "accint-solve",
@@ -416,7 +416,7 @@
         "act",
         "runtime"
       ],
-      "path": "plugins\\accint-solve\\SKILL.md"
+      "path": "plugins/accint-solve/SKILL.md"
     },
     {
       "id": "active-directory-attacks",
@@ -442,7 +442,7 @@
         "credential",
         "harvesting"
       ],
-      "path": "plugins\\active-directory-attacks\\SKILL.md"
+      "path": "plugins/active-directory-attacks/SKILL.md"
     },
     {
       "id": "activecampaign-automation",
@@ -466,7 +466,7 @@
         "list",
         "subscriptions"
       ],
-      "path": "plugins\\activecampaign-automation\\SKILL.md"
+      "path": "plugins/activecampaign-automation/SKILL.md"
     },
     {
       "id": "ad-creative",
@@ -491,7 +491,7 @@
         "similar",
         "platforms"
       ],
-      "path": "plugins\\ad-creative\\SKILL.md"
+      "path": "plugins/ad-creative/SKILL.md"
     },
     {
       "id": "add-app-clip",
@@ -517,7 +517,7 @@
         "site",
         "association"
       ],
-      "path": "plugins\\add-app-clip\\SKILL.md"
+      "path": "plugins/add-app-clip/SKILL.md"
     },
     {
       "id": "address-github-comments",
@@ -541,7 +541,7 @@
         "gh",
         "cli"
       ],
-      "path": "plugins\\address-github-comments\\SKILL.md"
+      "path": "plugins/address-github-comments/SKILL.md"
     },
     {
       "id": "adhx",
@@ -565,7 +565,7 @@
         "com",
         "links"
       ],
-      "path": "plugins\\adhx\\SKILL.md"
+      "path": "plugins/adhx/SKILL.md"
     },
     {
       "id": "advanced-evaluation",
@@ -590,7 +590,7 @@
         "model",
         "outputs"
       ],
-      "path": "plugins\\advanced-evaluation\\SKILL.md"
+      "path": "plugins/advanced-evaluation/SKILL.md"
     },
     {
       "id": "advogado-criminal",
@@ -617,7 +617,7 @@
         "da",
         "penha"
       ],
-      "path": "plugins\\advogado-criminal\\SKILL.md"
+      "path": "plugins/advogado-criminal/SKILL.md"
     },
     {
       "id": "advogado-especialista",
@@ -644,7 +644,7 @@
         "direito",
         "brasileiro"
       ],
-      "path": "plugins\\advogado-especialista\\SKILL.md"
+      "path": "plugins/advogado-especialista/SKILL.md"
     },
     {
       "id": "aegisops-ai",
@@ -669,7 +669,7 @@
         "linux",
         "kernel"
       ],
-      "path": "plugins\\aegisops-ai\\SKILL.md"
+      "path": "plugins/aegisops-ai/SKILL.md"
     },
     {
       "id": "agent-creator",
@@ -694,7 +694,7 @@
         "companion",
         "routing"
       ],
-      "path": "plugins\\agent-creator\\SKILL.md"
+      "path": "plugins/agent-creator/SKILL.md"
     },
     {
       "id": "agent-evaluation",
@@ -719,7 +719,7 @@
         "reliability",
         "metrics"
       ],
-      "path": "plugins\\agent-evaluation\\SKILL.md"
+      "path": "plugins/agent-evaluation/SKILL.md"
     },
     {
       "id": "agent-framework-azure-ai-py",
@@ -746,7 +746,7 @@
         "python",
         "sdk"
       ],
-      "path": "plugins\\agent-framework-azure-ai-py\\SKILL.md"
+      "path": "plugins/agent-framework-azure-ai-py/SKILL.md"
     },
     {
       "id": "agent-manager-skill",
@@ -772,7 +772,7 @@
         "start",
         "stop"
       ],
-      "path": "plugins\\agent-manager-skill\\SKILL.md"
+      "path": "plugins/agent-manager-skill/SKILL.md"
     },
     {
       "id": "agent-memory",
@@ -794,7 +794,7 @@
         "ai",
         "agents"
       ],
-      "path": "plugins\\agent-memory\\SKILL.md"
+      "path": "plugins/agent-memory/SKILL.md"
     },
     {
       "id": "agent-memory-mcp",
@@ -820,7 +820,7 @@
         "architecture",
         "decisions"
       ],
-      "path": "plugins\\agent-memory-mcp\\SKILL.md"
+      "path": "plugins/agent-memory-mcp/SKILL.md"
     },
     {
       "id": "agent-memory-systems",
@@ -845,7 +845,7 @@
         "skill",
         "covers"
       ],
-      "path": "plugins\\agent-memory-systems\\SKILL.md"
+      "path": "plugins/agent-memory-systems/SKILL.md"
     },
     {
       "id": "agent-orchestration-improve-agent",
@@ -870,7 +870,7 @@
         "prompt",
         "engineering"
       ],
-      "path": "plugins\\agent-orchestration-improve-agent\\SKILL.md"
+      "path": "plugins/agent-orchestration-improve-agent/SKILL.md"
     },
     {
       "id": "agent-orchestration-multi-agent-optimize",
@@ -896,7 +896,7 @@
         "improving",
         "performance"
       ],
-      "path": "plugins\\agent-orchestration-multi-agent-optimize\\SKILL.md"
+      "path": "plugins/agent-orchestration-multi-agent-optimize/SKILL.md"
     },
     {
       "id": "agent-orchestrator",
@@ -923,7 +923,7 @@
         "todos",
         "os"
       ],
-      "path": "plugins\\agent-orchestrator\\SKILL.md"
+      "path": "plugins/agent-orchestrator/SKILL.md"
     },
     {
       "id": "agent-self-scheduling",
@@ -950,7 +950,7 @@
         "external",
         "clocks"
       ],
-      "path": "plugins\\agent-self-scheduling\\SKILL.md"
+      "path": "plugins/agent-self-scheduling/SKILL.md"
     },
     {
       "id": "agent-squad",
@@ -970,7 +970,7 @@
         "specialized",
         "agents"
       ],
-      "path": "plugins\\agent-squad\\SKILL.md"
+      "path": "plugins/agent-squad/SKILL.md"
     },
     {
       "id": "agent-tool-builder",
@@ -995,7 +995,7 @@
         "between",
         "works"
       ],
-      "path": "plugins\\agent-tool-builder\\SKILL.md"
+      "path": "plugins/agent-tool-builder/SKILL.md"
     },
     {
       "id": "agentflow",
@@ -1019,7 +1019,7 @@
         "github",
         "linear"
       ],
-      "path": "plugins\\agentflow\\SKILL.md"
+      "path": "plugins/agentflow/SKILL.md"
     },
     {
       "id": "agentfolio",
@@ -1040,7 +1040,7 @@
         "ecosystems",
         "directory"
       ],
-      "path": "plugins\\agentfolio\\SKILL.md"
+      "path": "plugins/agentfolio/SKILL.md"
     },
     {
       "id": "agentic-actions-auditor",
@@ -1066,7 +1066,7 @@
         "including",
         "claude"
       ],
-      "path": "plugins\\agentic-actions-auditor\\SKILL.md"
+      "path": "plugins/agentic-actions-auditor/SKILL.md"
     },
     {
       "id": "agentmail",
@@ -1090,7 +1090,7 @@
         "check",
         "karma"
       ],
-      "path": "plugins\\agentmail\\SKILL.md"
+      "path": "plugins/agentmail/SKILL.md"
     },
     {
       "id": "ai-engineer",
@@ -1114,7 +1114,7 @@
         "multimodal",
         "agent"
       ],
-      "path": "plugins\\ai-engineer\\SKILL.md"
+      "path": "plugins/ai-engineer/SKILL.md"
     },
     {
       "id": "airflow-dag-patterns",
@@ -1139,7 +1139,7 @@
         "pipelines",
         "orchestrating"
       ],
-      "path": "plugins\\airflow-dag-patterns\\SKILL.md"
+      "path": "plugins/airflow-dag-patterns/SKILL.md"
     },
     {
       "id": "angular-migration",
@@ -1164,7 +1164,7 @@
         "injection",
         "updates"
       ],
-      "path": "plugins\\angular-migration\\SKILL.md"
+      "path": "plugins/angular-migration/SKILL.md"
     },
     {
       "id": "anti-reversing-techniques",
@@ -1190,7 +1190,7 @@
         "analyzing",
         "protected"
       ],
-      "path": "plugins\\anti-reversing-techniques\\SKILL.md"
+      "path": "plugins/anti-reversing-techniques/SKILL.md"
     },
     {
       "id": "api-design-principles",
@@ -1215,7 +1215,7 @@
         "designing",
         "new"
       ],
-      "path": "plugins\\api-design-principles\\SKILL.md"
+      "path": "plugins/api-design-principles/SKILL.md"
     },
     {
       "id": "api-documenter",
@@ -1240,7 +1240,7 @@
         "generate",
         "sdks"
       ],
-      "path": "plugins\\api-documenter\\SKILL.md"
+      "path": "plugins/api-documenter/SKILL.md"
     },
     {
       "id": "api-testing-observability-api-mock",
@@ -1266,7 +1266,7 @@
         "simulate",
         "real"
       ],
-      "path": "plugins\\api-testing-observability-api-mock\\SKILL.md"
+      "path": "plugins/api-testing-observability-api-mock/SKILL.md"
     },
     {
       "id": "application-performance-performance-optimization",
@@ -1291,7 +1291,7 @@
         "coordinating",
         "stack"
       ],
-      "path": "plugins\\application-performance-performance-optimization\\SKILL.md"
+      "path": "plugins/application-performance-performance-optimization/SKILL.md"
     },
     {
       "id": "architect-review",
@@ -1313,7 +1313,7 @@
         "reviews",
         "designs"
       ],
-      "path": "plugins\\architect-review\\SKILL.md"
+      "path": "plugins/architect-review/SKILL.md"
     },
     {
       "id": "architecture-decision-records",
@@ -1339,7 +1339,7 @@
         "significant",
         "decisions"
       ],
-      "path": "plugins\\architecture-decision-records\\SKILL.md"
+      "path": "plugins/architecture-decision-records/SKILL.md"
     },
     {
       "id": "architecture-patterns",
@@ -1363,7 +1363,7 @@
         "refactoring",
         "existing"
       ],
-      "path": "plugins\\architecture-patterns\\SKILL.md"
+      "path": "plugins/architecture-patterns/SKILL.md"
     },
     {
       "id": "arm-cortex-expert",
@@ -1388,7 +1388,7 @@
         "microcontrollers",
         "teensy"
       ],
-      "path": "plugins\\arm-cortex-expert\\SKILL.md"
+      "path": "plugins/arm-cortex-expert/SKILL.md"
     },
     {
       "id": "article-illustrations",
@@ -1413,7 +1413,7 @@
         "turns",
         "concepts"
       ],
-      "path": "plugins\\article-illustrations\\SKILL.md"
+      "path": "plugins/article-illustrations/SKILL.md"
     },
     {
       "id": "async-python-patterns",
@@ -1438,7 +1438,7 @@
         "apis",
         "bound"
       ],
-      "path": "plugins\\async-python-patterns\\SKILL.md"
+      "path": "plugins/async-python-patterns/SKILL.md"
     },
     {
       "id": "attack-tree-construction",
@@ -1464,7 +1464,7 @@
         "defense",
         "gaps"
       ],
-      "path": "plugins\\attack-tree-construction\\SKILL.md"
+      "path": "plugins/attack-tree-construction/SKILL.md"
     },
     {
       "id": "auth-implementation-patterns",
@@ -1488,7 +1488,7 @@
         "access",
         "control"
       ],
-      "path": "plugins\\auth-implementation-patterns\\SKILL.md"
+      "path": "plugins/auth-implementation-patterns/SKILL.md"
     },
     {
       "id": "backend-architect",
@@ -1512,7 +1512,7 @@
         "graphql",
         "grpc"
       ],
-      "path": "plugins\\backend-architect\\SKILL.md"
+      "path": "plugins/backend-architect/SKILL.md"
     },
     {
       "id": "backend-development-feature-development",
@@ -1535,7 +1535,7 @@
         "delivery",
         "teams"
       ],
-      "path": "plugins\\backend-development-feature-development\\SKILL.md"
+      "path": "plugins/backend-development-feature-development/SKILL.md"
     },
     {
       "id": "backend-security-coder",
@@ -1561,7 +1561,7 @@
         "proactively",
         "implementations"
       ],
-      "path": "plugins\\backend-security-coder\\SKILL.md"
+      "path": "plugins/backend-security-coder/SKILL.md"
     },
     {
       "id": "backtesting-frameworks",
@@ -1586,7 +1586,7 @@
         "transaction",
         "costs"
       ],
-      "path": "plugins\\backtesting-frameworks\\SKILL.md"
+      "path": "plugins/backtesting-frameworks/SKILL.md"
     },
     {
       "id": "bash-defensive-patterns",
@@ -1611,7 +1611,7 @@
         "cd",
         "pipelines"
       ],
-      "path": "plugins\\bash-defensive-patterns\\SKILL.md"
+      "path": "plugins/bash-defensive-patterns/SKILL.md"
     },
     {
       "id": "bash-pro",
@@ -1635,7 +1635,7 @@
         "portable",
         "testable"
       ],
-      "path": "plugins\\bash-pro\\SKILL.md"
+      "path": "plugins/bash-pro/SKILL.md"
     },
     {
       "id": "bats-testing-patterns",
@@ -1659,7 +1659,7 @@
         "cd",
         "pipelines"
       ],
-      "path": "plugins\\bats-testing-patterns\\SKILL.md"
+      "path": "plugins/bats-testing-patterns/SKILL.md"
     },
     {
       "id": "bazel-build-optimization",
@@ -1685,7 +1685,7 @@
         "execution",
         "optimizing"
       ],
-      "path": "plugins\\bazel-build-optimization\\SKILL.md"
+      "path": "plugins/bazel-build-optimization/SKILL.md"
     },
     {
       "id": "billing-automation",
@@ -1709,7 +1709,7 @@
         "automating",
         "managing"
       ],
-      "path": "plugins\\billing-automation\\SKILL.md"
+      "path": "plugins/billing-automation/SKILL.md"
     },
     {
       "id": "binary-analysis-patterns",
@@ -1733,7 +1733,7 @@
         "executables",
         "understanding"
       ],
-      "path": "plugins\\binary-analysis-patterns\\SKILL.md"
+      "path": "plugins/binary-analysis-patterns/SKILL.md"
     },
     {
       "id": "blockchain-developer",
@@ -1757,7 +1757,7 @@
         "nft",
         "platforms"
       ],
-      "path": "plugins\\blockchain-developer\\SKILL.md"
+      "path": "plugins/blockchain-developer/SKILL.md"
     },
     {
       "id": "business-analyst",
@@ -1782,7 +1782,7 @@
         "driven",
         "insights"
       ],
-      "path": "plugins\\business-analyst\\SKILL.md"
+      "path": "plugins/business-analyst/SKILL.md"
     },
     {
       "id": "c-pro",
@@ -1806,7 +1806,7 @@
         "embedded",
         "kernel"
       ],
-      "path": "plugins\\c-pro\\SKILL.md"
+      "path": "plugins/c-pro/SKILL.md"
     },
     {
       "id": "c4-architecture-c4-architecture",
@@ -1830,7 +1830,7 @@
         "analysis",
         "approach"
       ],
-      "path": "plugins\\c4-architecture-c4-architecture\\SKILL.md"
+      "path": "plugins/c4-architecture-c4-architecture/SKILL.md"
     },
     {
       "id": "c4-code",
@@ -1855,7 +1855,7 @@
         "dependencies",
         "structure"
       ],
-      "path": "plugins\\c4-code\\SKILL.md"
+      "path": "plugins/c4-code/SKILL.md"
     },
     {
       "id": "c4-component",
@@ -1880,7 +1880,7 @@
         "relationships",
         "creates"
       ],
-      "path": "plugins\\c4-component\\SKILL.md"
+      "path": "plugins/c4-component/SKILL.md"
     },
     {
       "id": "c4-container",
@@ -1905,7 +1905,7 @@
         "units",
         "documenting"
       ],
-      "path": "plugins\\c4-container\\SKILL.md"
+      "path": "plugins/c4-container/SKILL.md"
     },
     {
       "id": "c4-context",
@@ -1929,7 +1929,7 @@
         "journeys",
         "features"
       ],
-      "path": "plugins\\c4-context\\SKILL.md"
+      "path": "plugins/c4-context/SKILL.md"
     },
     {
       "id": "changelog-automation",
@@ -1953,7 +1953,7 @@
         "setting",
         "up"
       ],
-      "path": "plugins\\changelog-automation\\SKILL.md"
+      "path": "plugins/changelog-automation/SKILL.md"
     },
     {
       "id": "cicd-automation-workflow-automate",
@@ -1978,7 +1978,7 @@
         "actions",
         "automated"
       ],
-      "path": "plugins\\cicd-automation-workflow-automate\\SKILL.md"
+      "path": "plugins/cicd-automation-workflow-automate/SKILL.md"
     },
     {
       "id": "cloud-architect",
@@ -2002,7 +2002,7 @@
         "opentofu",
         "cdk"
       ],
-      "path": "plugins\\cloud-architect\\SKILL.md"
+      "path": "plugins/cloud-architect/SKILL.md"
     },
     {
       "id": "code-documentation-code-explain",
@@ -2028,7 +2028,7 @@
         "visual",
         "diagrams"
       ],
-      "path": "plugins\\code-documentation-code-explain\\SKILL.md"
+      "path": "plugins/code-documentation-code-explain/SKILL.md"
     },
     {
       "id": "code-documentation-doc-generate",
@@ -2055,7 +2055,7 @@
         "diagrams",
         "user"
       ],
-      "path": "plugins\\code-documentation-doc-generate\\SKILL.md"
+      "path": "plugins/code-documentation-doc-generate/SKILL.md"
     },
     {
       "id": "code-refactoring-context-restore",
@@ -2074,7 +2074,7 @@
         "context",
         "working"
       ],
-      "path": "plugins\\code-refactoring-context-restore\\SKILL.md"
+      "path": "plugins/code-refactoring-context-restore/SKILL.md"
     },
     {
       "id": "code-refactoring-refactor-clean",
@@ -2101,7 +2101,7 @@
         "provided",
         "improve"
       ],
-      "path": "plugins\\code-refactoring-refactor-clean\\SKILL.md"
+      "path": "plugins/code-refactoring-refactor-clean/SKILL.md"
     },
     {
       "id": "code-refactoring-tech-debt",
@@ -2128,7 +2128,7 @@
         "analyze",
         "codebase"
       ],
-      "path": "plugins\\code-refactoring-tech-debt\\SKILL.md"
+      "path": "plugins/code-refactoring-tech-debt/SKILL.md"
     },
     {
       "id": "code-review-ai-ai-review",
@@ -2153,7 +2153,7 @@
         "devops",
         "leverage"
       ],
-      "path": "plugins\\code-review-ai-ai-review\\SKILL.md"
+      "path": "plugins/code-review-ai-ai-review/SKILL.md"
     },
     {
       "id": "code-review-excellence",
@@ -2178,7 +2178,7 @@
         "foster",
         "knowledge"
       ],
-      "path": "plugins\\code-review-excellence\\SKILL.md"
+      "path": "plugins/code-review-excellence/SKILL.md"
     },
     {
       "id": "code-reviewer",
@@ -2202,7 +2202,7 @@
         "performance",
         "optimization"
       ],
-      "path": "plugins\\code-reviewer\\SKILL.md"
+      "path": "plugins/code-reviewer/SKILL.md"
     },
     {
       "id": "codebase-cleanup-deps-audit",
@@ -2229,7 +2229,7 @@
         "compliance",
         "supply"
       ],
-      "path": "plugins\\codebase-cleanup-deps-audit\\SKILL.md"
+      "path": "plugins/codebase-cleanup-deps-audit/SKILL.md"
     },
     {
       "id": "codebase-cleanup-refactor-clean",
@@ -2256,7 +2256,7 @@
         "engineering",
         "analyze"
       ],
-      "path": "plugins\\codebase-cleanup-refactor-clean\\SKILL.md"
+      "path": "plugins/codebase-cleanup-refactor-clean/SKILL.md"
     },
     {
       "id": "codebase-cleanup-tech-debt",
@@ -2283,7 +2283,7 @@
         "analyze",
         "uncover"
       ],
-      "path": "plugins\\codebase-cleanup-tech-debt\\SKILL.md"
+      "path": "plugins/codebase-cleanup-tech-debt/SKILL.md"
     },
     {
       "id": "competitive-landscape",
@@ -2308,7 +2308,7 @@
         "identify",
         "differentiation"
       ],
-      "path": "plugins\\competitive-landscape\\SKILL.md"
+      "path": "plugins/competitive-landscape/SKILL.md"
     },
     {
       "id": "comprehensive-review-full-review",
@@ -2325,7 +2325,7 @@
         "review",
         "working"
       ],
-      "path": "plugins\\comprehensive-review-full-review\\SKILL.md"
+      "path": "plugins/comprehensive-review-full-review/SKILL.md"
     },
     {
       "id": "comprehensive-review-pr-enhance",
@@ -2351,7 +2351,7 @@
         "requests",
         "facilitate"
       ],
-      "path": "plugins\\comprehensive-review-pr-enhance\\SKILL.md"
+      "path": "plugins/comprehensive-review-pr-enhance/SKILL.md"
     },
     {
       "id": "conductor-implement",
@@ -2372,7 +2372,7 @@
         "following",
         "tdd"
       ],
-      "path": "plugins\\conductor-implement\\SKILL.md"
+      "path": "plugins/conductor-implement/SKILL.md"
     },
     {
       "id": "conductor-manage",
@@ -2394,7 +2394,7 @@
         "rename",
         "cleanup"
       ],
-      "path": "plugins\\conductor-manage\\SKILL.md"
+      "path": "plugins/conductor-manage/SKILL.md"
     },
     {
       "id": "conductor-new-track",
@@ -2414,7 +2414,7 @@
         "phased",
         "plan"
       ],
-      "path": "plugins\\conductor-new-track\\SKILL.md"
+      "path": "plugins/conductor-new-track/SKILL.md"
     },
     {
       "id": "conductor-revert",
@@ -2438,7 +2438,7 @@
         "phase",
         "task"
       ],
-      "path": "plugins\\conductor-revert\\SKILL.md"
+      "path": "plugins/conductor-revert/SKILL.md"
     },
     {
       "id": "conductor-setup",
@@ -2461,7 +2461,7 @@
         "style",
         "guides"
       ],
-      "path": "plugins\\conductor-setup\\SKILL.md"
+      "path": "plugins/conductor-setup/SKILL.md"
     },
     {
       "id": "conductor-status",
@@ -2481,7 +2481,7 @@
         "next",
         "actions"
       ],
-      "path": "plugins\\conductor-status\\SKILL.md"
+      "path": "plugins/conductor-status/SKILL.md"
     },
     {
       "id": "conductor-validator",
@@ -2506,7 +2506,7 @@
         "issues",
         "before"
       ],
-      "path": "plugins\\conductor-validator\\SKILL.md"
+      "path": "plugins/conductor-validator/SKILL.md"
     },
     {
       "id": "content-marketer",
@@ -2531,7 +2531,7 @@
         "distribution",
         "seo"
       ],
-      "path": "plugins\\content-marketer\\SKILL.md"
+      "path": "plugins/content-marketer/SKILL.md"
     },
     {
       "id": "context-driven-development",
@@ -2555,7 +2555,7 @@
         "relationship",
         "between"
       ],
-      "path": "plugins\\context-driven-development\\SKILL.md"
+      "path": "plugins/context-driven-development/SKILL.md"
     },
     {
       "id": "context-management-context-restore",
@@ -2570,7 +2570,7 @@
         "context",
         "working"
       ],
-      "path": "plugins\\context-management-context-restore\\SKILL.md"
+      "path": "plugins/context-management-context-restore/SKILL.md"
     },
     {
       "id": "context-management-context-save",
@@ -2585,7 +2585,7 @@
         "context",
         "working"
       ],
-      "path": "plugins\\context-management-context-save\\SKILL.md"
+      "path": "plugins/context-management-context-save/SKILL.md"
     },
     {
       "id": "context-manager",
@@ -2609,7 +2609,7 @@
         "graphs",
         "intelligent"
       ],
-      "path": "plugins\\context-manager\\SKILL.md"
+      "path": "plugins/context-manager/SKILL.md"
     },
     {
       "id": "cost-optimization",
@@ -2634,7 +2634,7 @@
         "instances",
         "spending"
       ],
-      "path": "plugins\\cost-optimization\\SKILL.md"
+      "path": "plugins/cost-optimization/SKILL.md"
     },
     {
       "id": "cpp-pro",
@@ -2658,7 +2658,7 @@
         "algorithms",
         "move"
       ],
-      "path": "plugins\\cpp-pro\\SKILL.md"
+      "path": "plugins/cpp-pro/SKILL.md"
     },
     {
       "id": "cqrs-implementation",
@@ -2682,7 +2682,7 @@
         "models",
         "optimizing"
       ],
-      "path": "plugins\\cqrs-implementation\\SKILL.md"
+      "path": "plugins/cqrs-implementation/SKILL.md"
     },
     {
       "id": "csharp-pro",
@@ -2706,7 +2706,7 @@
         "optimizes",
         "net"
       ],
-      "path": "plugins\\csharp-pro\\SKILL.md"
+      "path": "plugins/csharp-pro/SKILL.md"
     },
     {
       "id": "customer-support",
@@ -2731,7 +2731,7 @@
         "analysis",
         "omnichannel"
       ],
-      "path": "plugins\\customer-support\\SKILL.md"
+      "path": "plugins/customer-support/SKILL.md"
     },
     {
       "id": "data-engineer",
@@ -2755,7 +2755,7 @@
         "apache",
         "spark"
       ],
-      "path": "plugins\\data-engineer\\SKILL.md"
+      "path": "plugins/data-engineer/SKILL.md"
     },
     {
       "id": "data-engineering-data-driven-feature",
@@ -2781,7 +2781,7 @@
         "specialized",
         "agents"
       ],
-      "path": "plugins\\data-engineering-data-driven-feature\\SKILL.md"
+      "path": "plugins/data-engineering-data-driven-feature/SKILL.md"
     },
     {
       "id": "data-engineering-data-pipeline",
@@ -2807,7 +2807,7 @@
         "batch",
         "streaming"
       ],
-      "path": "plugins\\data-engineering-data-pipeline\\SKILL.md"
+      "path": "plugins/data-engineering-data-pipeline/SKILL.md"
     },
     {
       "id": "data-quality-frameworks",
@@ -2833,7 +2833,7 @@
         "pipelines",
         "implementing"
       ],
-      "path": "plugins\\data-quality-frameworks\\SKILL.md"
+      "path": "plugins/data-quality-frameworks/SKILL.md"
     },
     {
       "id": "data-scientist",
@@ -2858,7 +2858,7 @@
         "business",
         "intelligence"
       ],
-      "path": "plugins\\data-scientist\\SKILL.md"
+      "path": "plugins/data-scientist/SKILL.md"
     },
     {
       "id": "data-storytelling",
@@ -2883,7 +2883,7 @@
         "analytics",
         "stakeholders"
       ],
-      "path": "plugins\\data-storytelling\\SKILL.md"
+      "path": "plugins/data-storytelling/SKILL.md"
     },
     {
       "id": "database-admin",
@@ -2908,7 +2908,7 @@
         "aws",
         "azure"
       ],
-      "path": "plugins\\database-admin\\SKILL.md"
+      "path": "plugins/database-admin/SKILL.md"
     },
     {
       "id": "database-architect",
@@ -2932,7 +2932,7 @@
         "scalable",
         "architectures"
       ],
-      "path": "plugins\\database-architect\\SKILL.md"
+      "path": "plugins/database-architect/SKILL.md"
     },
     {
       "id": "database-cloud-optimization-cost-optimize",
@@ -2960,7 +2960,7 @@
         "maintaining",
         "performance"
       ],
-      "path": "plugins\\database-cloud-optimization-cost-optimize\\SKILL.md"
+      "path": "plugins/database-cloud-optimization-cost-optimize/SKILL.md"
     },
     {
       "id": "database-migration",
@@ -2985,7 +2985,7 @@
         "rollback",
         "procedures"
       ],
-      "path": "plugins\\database-migration\\SKILL.md"
+      "path": "plugins/database-migration/SKILL.md"
     },
     {
       "id": "database-migrations-migration-observability",
@@ -3014,7 +3014,7 @@
         "observability",
         "infrastructure"
       ],
-      "path": "plugins\\database-migrations-migration-observability\\SKILL.md"
+      "path": "plugins/database-migrations-migration-observability/SKILL.md"
     },
     {
       "id": "database-migrations-sql-migrations",
@@ -3046,7 +3046,7 @@
         "downtime",
         "server"
       ],
-      "path": "plugins\\database-migrations-sql-migrations\\SKILL.md"
+      "path": "plugins/database-migrations-sql-migrations/SKILL.md"
     },
     {
       "id": "database-optimizer",
@@ -3071,7 +3071,7 @@
         "indexing",
         "resolution"
       ],
-      "path": "plugins\\database-optimizer\\SKILL.md"
+      "path": "plugins/database-optimizer/SKILL.md"
     },
     {
       "id": "dbt-transformation-patterns",
@@ -3096,7 +3096,7 @@
         "building",
         "transformations"
       ],
-      "path": "plugins\\dbt-transformation-patterns\\SKILL.md"
+      "path": "plugins/dbt-transformation-patterns/SKILL.md"
     },
     {
       "id": "debugger",
@@ -3119,7 +3119,7 @@
         "any",
         "issues"
       ],
-      "path": "plugins\\debugger\\SKILL.md"
+      "path": "plugins/debugger/SKILL.md"
     },
     {
       "id": "debugging-strategies",
@@ -3144,7 +3144,7 @@
         "down",
         "bugs"
       ],
-      "path": "plugins\\debugging-strategies\\SKILL.md"
+      "path": "plugins/debugging-strategies/SKILL.md"
     },
     {
       "id": "debugging-toolkit-smart-debug",
@@ -3162,7 +3162,7 @@
         "smart",
         "working"
       ],
-      "path": "plugins\\debugging-toolkit-smart-debug\\SKILL.md"
+      "path": "plugins/debugging-toolkit-smart-debug/SKILL.md"
     },
     {
       "id": "defi-protocol-templates",
@@ -3187,7 +3187,7 @@
         "applications",
         "smart"
       ],
-      "path": "plugins\\defi-protocol-templates\\SKILL.md"
+      "path": "plugins/defi-protocol-templates/SKILL.md"
     },
     {
       "id": "dependency-management-deps-audit",
@@ -3213,7 +3213,7 @@
         "chain",
         "analyze"
       ],
-      "path": "plugins\\dependency-management-deps-audit\\SKILL.md"
+      "path": "plugins/dependency-management-deps-audit/SKILL.md"
     },
     {
       "id": "dependency-upgrade",
@@ -3238,7 +3238,7 @@
         "upgrading",
         "framework"
       ],
-      "path": "plugins\\dependency-upgrade\\SKILL.md"
+      "path": "plugins/dependency-upgrade/SKILL.md"
     },
     {
       "id": "deployment-engineer",
@@ -3262,7 +3262,7 @@
         "actions",
         "argocd"
       ],
-      "path": "plugins\\deployment-engineer\\SKILL.md"
+      "path": "plugins/deployment-engineer/SKILL.md"
     },
     {
       "id": "deployment-pipeline-design",
@@ -3287,7 +3287,7 @@
         "checks",
         "orchestration"
       ],
-      "path": "plugins\\deployment-pipeline-design\\SKILL.md"
+      "path": "plugins/deployment-pipeline-design/SKILL.md"
     },
     {
       "id": "deployment-validation-config-validate",
@@ -3314,7 +3314,7 @@
         "application",
         "configurations"
       ],
-      "path": "plugins\\deployment-validation-config-validate\\SKILL.md"
+      "path": "plugins/deployment-validation-config-validate/SKILL.md"
     },
     {
       "id": "devops-troubleshooter",
@@ -3339,7 +3339,7 @@
         "analysis",
         "distributed"
       ],
-      "path": "plugins\\devops-troubleshooter\\SKILL.md"
+      "path": "plugins/devops-troubleshooter/SKILL.md"
     },
     {
       "id": "distributed-debugging-debug-trace",
@@ -3366,7 +3366,7 @@
         "configure",
         "solutions"
       ],
-      "path": "plugins\\distributed-debugging-debug-trace\\SKILL.md"
+      "path": "plugins/distributed-debugging-debug-trace/SKILL.md"
     },
     {
       "id": "distributed-tracing",
@@ -3391,7 +3391,7 @@
         "debugging",
         "analyzing"
       ],
-      "path": "plugins\\distributed-tracing\\SKILL.md"
+      "path": "plugins/distributed-tracing/SKILL.md"
     },
     {
       "id": "django-pro",
@@ -3415,7 +3415,7 @@
         "proper",
         "architecture"
       ],
-      "path": "plugins\\django-pro\\SKILL.md"
+      "path": "plugins/django-pro/SKILL.md"
     },
     {
       "id": "docs-architect",
@@ -3439,7 +3439,7 @@
         "produce",
         "long"
       ],
-      "path": "plugins\\docs-architect\\SKILL.md"
+      "path": "plugins/docs-architect/SKILL.md"
     },
     {
       "id": "documentation-generation-doc-generate",
@@ -3466,7 +3466,7 @@
         "architecture",
         "diagrams"
       ],
-      "path": "plugins\\documentation-generation-doc-generate\\SKILL.md"
+      "path": "plugins/documentation-generation-doc-generate/SKILL.md"
     },
     {
       "id": "dotnet-architect",
@@ -3490,7 +3490,7 @@
         "enterprise",
         "application"
       ],
-      "path": "plugins\\dotnet-architect\\SKILL.md"
+      "path": "plugins/dotnet-architect/SKILL.md"
     },
     {
       "id": "dotnet-backend-patterns",
@@ -3515,7 +3515,7 @@
         "applications",
         "covers"
       ],
-      "path": "plugins\\dotnet-backend-patterns\\SKILL.md"
+      "path": "plugins/dotnet-backend-patterns/SKILL.md"
     },
     {
       "id": "dx-optimizer",
@@ -3540,7 +3540,7 @@
         "new",
         "after"
       ],
-      "path": "plugins\\dx-optimizer\\SKILL.md"
+      "path": "plugins/dx-optimizer/SKILL.md"
     },
     {
       "id": "e2e-testing-patterns",
@@ -3564,7 +3564,7 @@
         "confidence",
         "enable"
       ],
-      "path": "plugins\\e2e-testing-patterns\\SKILL.md"
+      "path": "plugins/e2e-testing-patterns/SKILL.md"
     },
     {
       "id": "elixir-pro",
@@ -3588,7 +3588,7 @@
         "masters",
         "concurrency"
       ],
-      "path": "plugins\\elixir-pro\\SKILL.md"
+      "path": "plugins/elixir-pro/SKILL.md"
     },
     {
       "id": "embedding-strategies",
@@ -3613,7 +3613,7 @@
         "implementing",
         "chunking"
       ],
-      "path": "plugins\\embedding-strategies\\SKILL.md"
+      "path": "plugins/embedding-strategies/SKILL.md"
     },
     {
       "id": "employment-contract-templates",
@@ -3638,7 +3638,7 @@
         "drafting",
         "agreements"
       ],
-      "path": "plugins\\employment-contract-templates\\SKILL.md"
+      "path": "plugins/employment-contract-templates/SKILL.md"
     },
     {
       "id": "error-debugging-error-analysis",
@@ -3662,7 +3662,7 @@
         "observability",
         "solutions"
       ],
-      "path": "plugins\\error-debugging-error-analysis\\SKILL.md"
+      "path": "plugins/error-debugging-error-analysis/SKILL.md"
     },
     {
       "id": "error-debugging-error-trace",
@@ -3688,7 +3688,7 @@
         "up",
         "configure"
       ],
-      "path": "plugins\\error-debugging-error-trace\\SKILL.md"
+      "path": "plugins/error-debugging-error-trace/SKILL.md"
     },
     {
       "id": "error-debugging-multi-agent-review",
@@ -3709,7 +3709,7 @@
         "review",
         "working"
       ],
-      "path": "plugins\\error-debugging-multi-agent-review\\SKILL.md"
+      "path": "plugins/error-debugging-multi-agent-review/SKILL.md"
     },
     {
       "id": "error-detective",
@@ -3734,7 +3734,7 @@
         "identifies",
         "root"
       ],
-      "path": "plugins\\error-detective\\SKILL.md"
+      "path": "plugins/error-detective/SKILL.md"
     },
     {
       "id": "error-diagnostics-error-analysis",
@@ -3759,7 +3759,7 @@
         "observability",
         "solutions"
       ],
-      "path": "plugins\\error-diagnostics-error-analysis\\SKILL.md"
+      "path": "plugins/error-diagnostics-error-analysis/SKILL.md"
     },
     {
       "id": "error-diagnostics-error-trace",
@@ -3785,7 +3785,7 @@
         "up",
         "configure"
       ],
-      "path": "plugins\\error-diagnostics-error-trace\\SKILL.md"
+      "path": "plugins/error-diagnostics-error-trace/SKILL.md"
     },
     {
       "id": "error-diagnostics-smart-debug",
@@ -3804,7 +3804,7 @@
         "smart",
         "working"
       ],
-      "path": "plugins\\error-diagnostics-smart-debug\\SKILL.md"
+      "path": "plugins/error-diagnostics-smart-debug/SKILL.md"
     },
     {
       "id": "error-handling-patterns",
@@ -3829,7 +3829,7 @@
         "resilient",
         "applications"
       ],
-      "path": "plugins\\error-handling-patterns\\SKILL.md"
+      "path": "plugins/error-handling-patterns/SKILL.md"
     },
     {
       "id": "event-sourcing-architect",
@@ -3854,7 +3854,7 @@
         "saga",
         "orchestration"
       ],
-      "path": "plugins\\event-sourcing-architect\\SKILL.md"
+      "path": "plugins/event-sourcing-architect/SKILL.md"
     },
     {
       "id": "event-store-design",
@@ -3878,7 +3878,7 @@
         "implementing",
         "persistence"
       ],
-      "path": "plugins\\event-store-design\\SKILL.md"
+      "path": "plugins/event-store-design/SKILL.md"
     },
     {
       "id": "fastapi-pro",
@@ -3902,7 +3902,7 @@
         "websockets",
         "python"
       ],
-      "path": "plugins\\fastapi-pro\\SKILL.md"
+      "path": "plugins/fastapi-pro/SKILL.md"
     },
     {
       "id": "fastapi-templates",
@@ -3926,7 +3926,7 @@
         "up",
         "backend"
       ],
-      "path": "plugins\\fastapi-templates\\SKILL.md"
+      "path": "plugins/fastapi-templates/SKILL.md"
     },
     {
       "id": "firmware-analyst",
@@ -3951,7 +3951,7 @@
         "extraction",
         "analysis"
       ],
-      "path": "plugins\\firmware-analyst\\SKILL.md"
+      "path": "plugins/firmware-analyst/SKILL.md"
     },
     {
       "id": "flutter-expert",
@@ -3975,7 +3975,7 @@
         "performance",
         "optimization"
       ],
-      "path": "plugins\\flutter-expert\\SKILL.md"
+      "path": "plugins/flutter-expert/SKILL.md"
     },
     {
       "id": "framework-migration-code-migrate",
@@ -4002,7 +4002,7 @@
         "versions",
         "platforms"
       ],
-      "path": "plugins\\framework-migration-code-migrate\\SKILL.md"
+      "path": "plugins/framework-migration-code-migrate/SKILL.md"
     },
     {
       "id": "framework-migration-deps-upgrade",
@@ -4029,7 +4029,7 @@
         "plan",
         "execute"
       ],
-      "path": "plugins\\framework-migration-deps-upgrade\\SKILL.md"
+      "path": "plugins/framework-migration-deps-upgrade/SKILL.md"
     },
     {
       "id": "framework-migration-legacy-modernize",
@@ -4056,7 +4056,7 @@
         "replacement",
         "outdated"
       ],
-      "path": "plugins\\framework-migration-legacy-modernize\\SKILL.md"
+      "path": "plugins/framework-migration-legacy-modernize/SKILL.md"
     },
     {
       "id": "frontend-developer",
@@ -4080,7 +4080,7 @@
         "masters",
         "19"
       ],
-      "path": "plugins\\frontend-developer\\SKILL.md"
+      "path": "plugins/frontend-developer/SKILL.md"
     },
     {
       "id": "frontend-mobile-development-component-scaffold",
@@ -4106,7 +4106,7 @@
         "performant",
         "components"
       ],
-      "path": "plugins\\frontend-mobile-development-component-scaffold\\SKILL.md"
+      "path": "plugins/frontend-mobile-development-component-scaffold/SKILL.md"
     },
     {
       "id": "frontend-mobile-security-xss-scan",
@@ -4134,7 +4134,7 @@
         "detection",
         "prevention"
       ],
-      "path": "plugins\\frontend-mobile-security-xss-scan\\SKILL.md"
+      "path": "plugins/frontend-mobile-security-xss-scan/SKILL.md"
     },
     {
       "id": "frontend-security-coder",
@@ -4160,7 +4160,7 @@
         "client",
         "side"
       ],
-      "path": "plugins\\frontend-security-coder\\SKILL.md"
+      "path": "plugins/frontend-security-coder/SKILL.md"
     },
     {
       "id": "full-stack-orchestration-full-stack-feature",
@@ -4178,7 +4178,7 @@
         "feature",
         "working"
       ],
-      "path": "plugins\\full-stack-orchestration-full-stack-feature\\SKILL.md"
+      "path": "plugins/full-stack-orchestration-full-stack-feature/SKILL.md"
     },
     {
       "id": "gdpr-data-handling",
@@ -4204,7 +4204,7 @@
         "eu",
         "personal"
       ],
-      "path": "plugins\\gdpr-data-handling\\SKILL.md"
+      "path": "plugins/gdpr-data-handling/SKILL.md"
     },
     {
       "id": "git-advanced-workflows",
@@ -4229,7 +4229,7 @@
         "clean",
         "history"
       ],
-      "path": "plugins\\git-advanced-workflows\\SKILL.md"
+      "path": "plugins/git-advanced-workflows/SKILL.md"
     },
     {
       "id": "git-pr-workflows-git-workflow",
@@ -4254,7 +4254,7 @@
         "quality",
         "assurance"
       ],
-      "path": "plugins\\git-pr-workflows-git-workflow\\SKILL.md"
+      "path": "plugins/git-pr-workflows-git-workflow/SKILL.md"
     },
     {
       "id": "git-pr-workflows-onboard",
@@ -4280,7 +4280,7 @@
         "first",
         "organizations"
       ],
-      "path": "plugins\\git-pr-workflows-onboard\\SKILL.md"
+      "path": "plugins/git-pr-workflows-onboard/SKILL.md"
     },
     {
       "id": "git-pr-workflows-pr-enhance",
@@ -4306,7 +4306,7 @@
         "facilitate",
         "efficient"
       ],
-      "path": "plugins\\git-pr-workflows-pr-enhance\\SKILL.md"
+      "path": "plugins/git-pr-workflows-pr-enhance/SKILL.md"
     },
     {
       "id": "github-actions-templates",
@@ -4331,7 +4331,7 @@
         "cd",
         "automating"
       ],
-      "path": "plugins\\github-actions-templates\\SKILL.md"
+      "path": "plugins/github-actions-templates/SKILL.md"
     },
     {
       "id": "gitlab-ci-patterns",
@@ -4356,7 +4356,7 @@
         "automation",
         "implementing"
       ],
-      "path": "plugins\\gitlab-ci-patterns\\SKILL.md"
+      "path": "plugins/gitlab-ci-patterns/SKILL.md"
     },
     {
       "id": "gitops-workflow",
@@ -4380,7 +4380,7 @@
         "automating",
         "setting"
       ],
-      "path": "plugins\\gitops-workflow\\SKILL.md"
+      "path": "plugins/gitops-workflow/SKILL.md"
     },
     {
       "id": "go-concurrency-patterns",
@@ -4405,7 +4405,7 @@
         "implementing",
         "worker"
       ],
-      "path": "plugins\\go-concurrency-patterns\\SKILL.md"
+      "path": "plugins/go-concurrency-patterns/SKILL.md"
     },
     {
       "id": "godot-gdscript-patterns",
@@ -4430,7 +4430,7 @@
         "implementing",
         "game"
       ],
-      "path": "plugins\\godot-gdscript-patterns\\SKILL.md"
+      "path": "plugins/godot-gdscript-patterns/SKILL.md"
     },
     {
       "id": "golang-pro",
@@ -4454,7 +4454,7 @@
         "including",
         "generics"
       ],
-      "path": "plugins\\golang-pro\\SKILL.md"
+      "path": "plugins/golang-pro/SKILL.md"
     },
     {
       "id": "grafana-dashboards",
@@ -4479,7 +4479,7 @@
         "creating",
         "operational"
       ],
-      "path": "plugins\\grafana-dashboards\\SKILL.md"
+      "path": "plugins/grafana-dashboards/SKILL.md"
     },
     {
       "id": "graphql-architect",
@@ -4503,7 +4503,7 @@
         "real",
         "time"
       ],
-      "path": "plugins\\graphql-architect\\SKILL.md"
+      "path": "plugins/graphql-architect/SKILL.md"
     },
     {
       "id": "haskell-pro",
@@ -4527,7 +4527,7 @@
         "proactively",
         "level"
       ],
-      "path": "plugins\\haskell-pro\\SKILL.md"
+      "path": "plugins/haskell-pro/SKILL.md"
     },
     {
       "id": "helm-chart-scaffolding",
@@ -4552,7 +4552,7 @@
         "configurations",
         "creating"
       ],
-      "path": "plugins\\helm-chart-scaffolding\\SKILL.md"
+      "path": "plugins/helm-chart-scaffolding/SKILL.md"
     },
     {
       "id": "hr-pro",
@@ -4576,7 +4576,7 @@
         "performance",
         "compliant"
       ],
-      "path": "plugins\\hr-pro\\SKILL.md"
+      "path": "plugins/hr-pro/SKILL.md"
     },
     {
       "id": "hybrid-cloud-architect",
@@ -4601,7 +4601,7 @@
         "private",
         "clouds"
       ],
-      "path": "plugins\\hybrid-cloud-architect\\SKILL.md"
+      "path": "plugins/hybrid-cloud-architect/SKILL.md"
     },
     {
       "id": "hybrid-cloud-networking",
@@ -4627,7 +4627,7 @@
         "infrastructure",
         "platforms"
       ],
-      "path": "plugins\\hybrid-cloud-networking\\SKILL.md"
+      "path": "plugins/hybrid-cloud-networking/SKILL.md"
     },
     {
       "id": "hybrid-search-implementation",
@@ -4652,7 +4652,7 @@
         "engines",
         "neither"
       ],
-      "path": "plugins\\hybrid-search-implementation\\SKILL.md"
+      "path": "plugins/hybrid-search-implementation/SKILL.md"
     },
     {
       "id": "incident-responder",
@@ -4677,7 +4677,7 @@
         "blameless",
         "post"
       ],
-      "path": "plugins\\incident-responder\\SKILL.md"
+      "path": "plugins/incident-responder/SKILL.md"
     },
     {
       "id": "incident-response-incident-response",
@@ -4693,7 +4693,7 @@
         "response",
         "working"
       ],
-      "path": "plugins\\incident-response-incident-response\\SKILL.md"
+      "path": "plugins/incident-response-incident-response/SKILL.md"
     },
     {
       "id": "incident-response-smart-fix",
@@ -4719,7 +4719,7 @@
         "pipeline",
         "leverages"
       ],
-      "path": "plugins\\incident-response-smart-fix\\SKILL.md"
+      "path": "plugins/incident-response-smart-fix/SKILL.md"
     },
     {
       "id": "incident-runbook-templates",
@@ -4744,7 +4744,7 @@
         "actions",
         "building"
       ],
-      "path": "plugins\\incident-runbook-templates\\SKILL.md"
+      "path": "plugins/incident-runbook-templates/SKILL.md"
     },
     {
       "id": "ios-developer",
@@ -4768,7 +4768,7 @@
         "integration",
         "core"
       ],
-      "path": "plugins\\ios-developer\\SKILL.md"
+      "path": "plugins/ios-developer/SKILL.md"
     },
     {
       "id": "istio-traffic-management",
@@ -4793,7 +4793,7 @@
         "deployments",
         "implementing"
       ],
-      "path": "plugins\\istio-traffic-management\\SKILL.md"
+      "path": "plugins/istio-traffic-management/SKILL.md"
     },
     {
       "id": "java-pro",
@@ -4817,7 +4817,7 @@
         "latest",
         "ecosystem"
       ],
-      "path": "plugins\\java-pro\\SKILL.md"
+      "path": "plugins/java-pro/SKILL.md"
     },
     {
       "id": "javascript-pro",
@@ -4841,7 +4841,7 @@
         "browser",
         "compatibility"
       ],
-      "path": "plugins\\javascript-pro\\SKILL.md"
+      "path": "plugins/javascript-pro/SKILL.md"
     },
     {
       "id": "javascript-testing-patterns",
@@ -4865,7 +4865,7 @@
         "test",
         "driven"
       ],
-      "path": "plugins\\javascript-testing-patterns\\SKILL.md"
+      "path": "plugins/javascript-testing-patterns/SKILL.md"
     },
     {
       "id": "javascript-typescript-typescript-scaffold",
@@ -4890,7 +4890,7 @@
         "generate",
         "complete"
       ],
-      "path": "plugins\\javascript-typescript-typescript-scaffold\\SKILL.md"
+      "path": "plugins/javascript-typescript-typescript-scaffold/SKILL.md"
     },
     {
       "id": "julia-pro",
@@ -4914,7 +4914,7 @@
         "package",
         "scientific"
       ],
-      "path": "plugins\\julia-pro\\SKILL.md"
+      "path": "plugins/julia-pro/SKILL.md"
     },
     {
       "id": "k8s-manifest-generator",
@@ -4940,7 +4940,7 @@
         "standards",
         "generating"
       ],
-      "path": "plugins\\k8s-manifest-generator\\SKILL.md"
+      "path": "plugins/k8s-manifest-generator/SKILL.md"
     },
     {
       "id": "k8s-security-policies",
@@ -4966,7 +4966,7 @@
         "clusters",
         "implementing"
       ],
-      "path": "plugins\\k8s-security-policies\\SKILL.md"
+      "path": "plugins/k8s-security-policies/SKILL.md"
     },
     {
       "id": "kpi-dashboard-design",
@@ -4991,7 +4991,7 @@
         "building",
         "business"
       ],
-      "path": "plugins\\kpi-dashboard-design\\SKILL.md"
+      "path": "plugins/kpi-dashboard-design/SKILL.md"
     },
     {
       "id": "kubernetes-architect",
@@ -5015,7 +5015,7 @@
         "container",
         "orchestration"
       ],
-      "path": "plugins\\kubernetes-architect\\SKILL.md"
+      "path": "plugins/kubernetes-architect/SKILL.md"
     },
     {
       "id": "langchain-architecture",
@@ -5040,7 +5040,7 @@
         "ai",
         "creating"
       ],
-      "path": "plugins\\langchain-architecture\\SKILL.md"
+      "path": "plugins/langchain-architecture/SKILL.md"
     },
     {
       "id": "legacy-modernizer",
@@ -5065,7 +5065,7 @@
         "debt",
         "dependency"
       ],
-      "path": "plugins\\legacy-modernizer\\SKILL.md"
+      "path": "plugins/legacy-modernizer/SKILL.md"
     },
     {
       "id": "legal-advisor",
@@ -5090,7 +5090,7 @@
         "compliant",
         "texts"
       ],
-      "path": "plugins\\legal-advisor\\SKILL.md"
+      "path": "plugins/legal-advisor/SKILL.md"
     },
     {
       "id": "linkerd-patterns",
@@ -5114,7 +5114,7 @@
         "implementing",
         "zero"
       ],
-      "path": "plugins\\linkerd-patterns\\SKILL.md"
+      "path": "plugins/linkerd-patterns/SKILL.md"
     },
     {
       "id": "llm-application-dev-ai-assistant",
@@ -5141,7 +5141,7 @@
         "interfaces",
         "chatbots"
       ],
-      "path": "plugins\\llm-application-dev-ai-assistant\\SKILL.md"
+      "path": "plugins/llm-application-dev-ai-assistant/SKILL.md"
     },
     {
       "id": "llm-application-dev-langchain-agent",
@@ -5167,7 +5167,7 @@
         "ai",
         "langgraph"
       ],
-      "path": "plugins\\llm-application-dev-langchain-agent\\SKILL.md"
+      "path": "plugins/llm-application-dev-langchain-agent/SKILL.md"
     },
     {
       "id": "llm-application-dev-prompt-optimize",
@@ -5195,7 +5195,7 @@
         "llms",
         "through"
       ],
-      "path": "plugins\\llm-application-dev-prompt-optimize\\SKILL.md"
+      "path": "plugins/llm-application-dev-prompt-optimize/SKILL.md"
     },
     {
       "id": "llm-evaluation",
@@ -5220,7 +5220,7 @@
         "measuring",
         "ai"
       ],
-      "path": "plugins\\llm-evaluation\\SKILL.md"
+      "path": "plugins/llm-evaluation/SKILL.md"
     },
     {
       "id": "machine-learning-ops-ml-pipeline",
@@ -5243,7 +5243,7 @@
         "complete",
         "arguments"
       ],
-      "path": "plugins\\machine-learning-ops-ml-pipeline\\SKILL.md"
+      "path": "plugins/machine-learning-ops-ml-pipeline/SKILL.md"
     },
     {
       "id": "malware-analyst",
@@ -5268,7 +5268,7 @@
         "sandbox",
         "analysis"
       ],
-      "path": "plugins\\malware-analyst\\SKILL.md"
+      "path": "plugins/malware-analyst/SKILL.md"
     },
     {
       "id": "market-sizing-analysis",
@@ -5293,7 +5293,7 @@
         "determine",
         "sam"
       ],
-      "path": "plugins\\market-sizing-analysis\\SKILL.md"
+      "path": "plugins/market-sizing-analysis/SKILL.md"
     },
     {
       "id": "memory-forensics",
@@ -5318,7 +5318,7 @@
         "related",
         "analyzing"
       ],
-      "path": "plugins\\memory-forensics\\SKILL.md"
+      "path": "plugins/memory-forensics/SKILL.md"
     },
     {
       "id": "memory-safety-patterns",
@@ -5343,7 +5343,7 @@
         "writing",
         "code"
       ],
-      "path": "plugins\\memory-safety-patterns\\SKILL.md"
+      "path": "plugins/memory-safety-patterns/SKILL.md"
     },
     {
       "id": "mermaid-expert",
@@ -5367,7 +5367,7 @@
         "types",
         "styling"
       ],
-      "path": "plugins\\mermaid-expert\\SKILL.md"
+      "path": "plugins/mermaid-expert/SKILL.md"
     },
     {
       "id": "microservices-patterns",
@@ -5391,7 +5391,7 @@
         "monoliths",
         "implementing"
       ],
-      "path": "plugins\\microservices-patterns\\SKILL.md"
+      "path": "plugins/microservices-patterns/SKILL.md"
     },
     {
       "id": "minecraft-bukkit-pro",
@@ -5416,7 +5416,7 @@
         "event",
         "driven"
       ],
-      "path": "plugins\\minecraft-bukkit-pro\\SKILL.md"
+      "path": "plugins/minecraft-bukkit-pro/SKILL.md"
     },
     {
       "id": "ml-engineer",
@@ -5440,7 +5440,7 @@
         "testing",
         "monitoring"
       ],
-      "path": "plugins\\ml-engineer\\SKILL.md"
+      "path": "plugins/ml-engineer/SKILL.md"
     },
     {
       "id": "ml-pipeline-workflow",
@@ -5465,7 +5465,7 @@
         "deployment",
         "creating"
       ],
-      "path": "plugins\\ml-pipeline-workflow\\SKILL.md"
+      "path": "plugins/ml-pipeline-workflow/SKILL.md"
     },
     {
       "id": "mlops-engineer",
@@ -5489,7 +5489,7 @@
         "implements",
         "automated"
       ],
-      "path": "plugins\\mlops-engineer\\SKILL.md"
+      "path": "plugins/mlops-engineer/SKILL.md"
     },
     {
       "id": "mobile-developer",
@@ -5513,7 +5513,7 @@
         "platform",
         "development"
       ],
-      "path": "plugins\\mobile-developer\\SKILL.md"
+      "path": "plugins/mobile-developer/SKILL.md"
     },
     {
       "id": "mobile-security-coder",
@@ -5539,7 +5539,7 @@
         "proactively",
         "implementations"
       ],
-      "path": "plugins\\mobile-security-coder\\SKILL.md"
+      "path": "plugins/mobile-security-coder/SKILL.md"
     },
     {
       "id": "modern-javascript-patterns",
@@ -5564,7 +5564,7 @@
         "arrow",
         "functions"
       ],
-      "path": "plugins\\modern-javascript-patterns\\SKILL.md"
+      "path": "plugins/modern-javascript-patterns/SKILL.md"
     },
     {
       "id": "monorepo-architect",
@@ -5588,7 +5588,7 @@
         "efficient",
         "multi"
       ],
-      "path": "plugins\\monorepo-architect\\SKILL.md"
+      "path": "plugins/monorepo-architect/SKILL.md"
     },
     {
       "id": "monorepo-management",
@@ -5612,7 +5612,7 @@
         "optimized",
         "dependency"
       ],
-      "path": "plugins\\monorepo-management\\SKILL.md"
+      "path": "plugins/monorepo-management/SKILL.md"
     },
     {
       "id": "mtls-configuration",
@@ -5637,7 +5637,7 @@
         "certificate",
         "securing"
       ],
-      "path": "plugins\\mtls-configuration\\SKILL.md"
+      "path": "plugins/mtls-configuration/SKILL.md"
     },
     {
       "id": "multi-cloud-architecture",
@@ -5663,7 +5663,7 @@
         "gcp",
         "building"
       ],
-      "path": "plugins\\multi-cloud-architecture\\SKILL.md"
+      "path": "plugins/multi-cloud-architecture/SKILL.md"
     },
     {
       "id": "multi-platform-apps-multi-platform",
@@ -5689,7 +5689,7 @@
         "platforms",
         "api"
       ],
-      "path": "plugins\\multi-platform-apps-multi-platform\\SKILL.md"
+      "path": "plugins/multi-platform-apps-multi-platform/SKILL.md"
     },
     {
       "id": "network-engineer",
@@ -5713,7 +5713,7 @@
         "multi",
         "connectivity"
       ],
-      "path": "plugins\\network-engineer\\SKILL.md"
+      "path": "plugins/network-engineer/SKILL.md"
     },
     {
       "id": "nextjs-app-router-patterns",
@@ -5739,7 +5739,7 @@
         "routes",
         "data"
       ],
-      "path": "plugins\\nextjs-app-router-patterns\\SKILL.md"
+      "path": "plugins/nextjs-app-router-patterns/SKILL.md"
     },
     {
       "id": "nft-standards",
@@ -5764,7 +5764,7 @@
         "integration",
         "creating"
       ],
-      "path": "plugins\\nft-standards\\SKILL.md"
+      "path": "plugins/nft-standards/SKILL.md"
     },
     {
       "id": "nodejs-backend-patterns",
@@ -5789,7 +5789,7 @@
         "authentication",
         "database"
       ],
-      "path": "plugins\\nodejs-backend-patterns\\SKILL.md"
+      "path": "plugins/nodejs-backend-patterns/SKILL.md"
     },
     {
       "id": "nx-workspace-patterns",
@@ -5814,7 +5814,7 @@
         "optimizing",
         "caching"
       ],
-      "path": "plugins\\nx-workspace-patterns\\SKILL.md"
+      "path": "plugins/nx-workspace-patterns/SKILL.md"
     },
     {
       "id": "observability-engineer",
@@ -5838,7 +5838,7 @@
         "proactively",
         "infrastructure"
       ],
-      "path": "plugins\\observability-engineer\\SKILL.md"
+      "path": "plugins/observability-engineer/SKILL.md"
     },
     {
       "id": "observability-monitoring-monitor-setup",
@@ -5865,7 +5865,7 @@
         "collection",
         "distributed"
       ],
-      "path": "plugins\\observability-monitoring-monitor-setup\\SKILL.md"
+      "path": "plugins/observability-monitoring-monitor-setup/SKILL.md"
     },
     {
       "id": "observability-monitoring-slo-implement",
@@ -5892,7 +5892,7 @@
         "error",
         "budget"
       ],
-      "path": "plugins\\observability-monitoring-slo-implement\\SKILL.md"
+      "path": "plugins/observability-monitoring-slo-implement/SKILL.md"
     },
     {
       "id": "on-call-handoff-patterns",
@@ -5918,7 +5918,7 @@
         "transitioning",
         "responsibilities"
       ],
-      "path": "plugins\\on-call-handoff-patterns\\SKILL.md"
+      "path": "plugins/on-call-handoff-patterns/SKILL.md"
     },
     {
       "id": "openapi-spec-generation",
@@ -5944,7 +5944,7 @@
         "creating",
         "api"
       ],
-      "path": "plugins\\openapi-spec-generation\\SKILL.md"
+      "path": "plugins/openapi-spec-generation/SKILL.md"
     },
     {
       "id": "payment-integration",
@@ -5969,7 +5969,7 @@
         "pci",
         "compliance"
       ],
-      "path": "plugins\\payment-integration\\SKILL.md"
+      "path": "plugins/payment-integration/SKILL.md"
     },
     {
       "id": "paypal-integration",
@@ -5994,7 +5994,7 @@
         "payments",
         "online"
       ],
-      "path": "plugins\\paypal-integration\\SKILL.md"
+      "path": "plugins/paypal-integration/SKILL.md"
     },
     {
       "id": "pci-compliance",
@@ -6019,7 +6019,7 @@
         "processing",
         "achieving"
       ],
-      "path": "plugins\\pci-compliance\\SKILL.md"
+      "path": "plugins/pci-compliance/SKILL.md"
     },
     {
       "id": "performance-engineer",
@@ -6043,7 +6043,7 @@
         "tracing",
         "load"
       ],
-      "path": "plugins\\performance-engineer\\SKILL.md"
+      "path": "plugins/performance-engineer/SKILL.md"
     },
     {
       "id": "performance-testing-review-ai-review",
@@ -6068,7 +6068,7 @@
         "intelligent",
         "recognition"
       ],
-      "path": "plugins\\performance-testing-review-ai-review\\SKILL.md"
+      "path": "plugins/performance-testing-review-ai-review/SKILL.md"
     },
     {
       "id": "performance-testing-review-multi-agent-review",
@@ -6088,7 +6088,7 @@
         "review",
         "working"
       ],
-      "path": "plugins\\performance-testing-review-multi-agent-review\\SKILL.md"
+      "path": "plugins/performance-testing-review-multi-agent-review/SKILL.md"
     },
     {
       "id": "php-pro",
@@ -6112,7 +6112,7 @@
         "oop",
         "features"
       ],
-      "path": "plugins\\php-pro\\SKILL.md"
+      "path": "plugins/php-pro/SKILL.md"
     },
     {
       "id": "posix-shell-pro",
@@ -6137,7 +6137,7 @@
         "specializes",
         "scripts"
       ],
-      "path": "plugins\\posix-shell-pro\\SKILL.md"
+      "path": "plugins/posix-shell-pro/SKILL.md"
     },
     {
       "id": "postgresql",
@@ -6159,7 +6159,7 @@
         "performance",
         "features"
       ],
-      "path": "plugins\\postgresql\\SKILL.md"
+      "path": "plugins/postgresql/SKILL.md"
     },
     {
       "id": "postmortem-writing",
@@ -6184,7 +6184,7 @@
         "action",
         "items"
       ],
-      "path": "plugins\\postmortem-writing\\SKILL.md"
+      "path": "plugins/postmortem-writing/SKILL.md"
     },
     {
       "id": "projection-patterns",
@@ -6208,7 +6208,7 @@
         "materialized",
         "views"
       ],
-      "path": "plugins\\projection-patterns\\SKILL.md"
+      "path": "plugins/projection-patterns/SKILL.md"
     },
     {
       "id": "prometheus-configuration",
@@ -6233,7 +6233,7 @@
         "implementing",
         "metrics"
       ],
-      "path": "plugins\\prometheus-configuration\\SKILL.md"
+      "path": "plugins/prometheus-configuration/SKILL.md"
     },
     {
       "id": "prompt-engineer",
@@ -6257,7 +6257,7 @@
         "thought",
         "constitutional"
       ],
-      "path": "plugins\\prompt-engineer\\SKILL.md"
+      "path": "plugins/prompt-engineer/SKILL.md"
     },
     {
       "id": "prompt-engineering-patterns",
@@ -6282,7 +6282,7 @@
         "improving",
         "outputs"
       ],
-      "path": "plugins\\prompt-engineering-patterns\\SKILL.md"
+      "path": "plugins/prompt-engineering-patterns/SKILL.md"
     },
     {
       "id": "protocol-reverse-engineering",
@@ -6308,7 +6308,7 @@
         "analyzing",
         "traffic"
       ],
-      "path": "plugins\\protocol-reverse-engineering\\SKILL.md"
+      "path": "plugins/protocol-reverse-engineering/SKILL.md"
     },
     {
       "id": "python-development-python-scaffold",
@@ -6332,7 +6332,7 @@
         "tooling",
         "uv"
       ],
-      "path": "plugins\\python-development-python-scaffold\\SKILL.md"
+      "path": "plugins/python-development-python-scaffold/SKILL.md"
     },
     {
       "id": "python-packaging",
@@ -6357,7 +6357,7 @@
         "publishing",
         "pypi"
       ],
-      "path": "plugins\\python-packaging\\SKILL.md"
+      "path": "plugins/python-packaging/SKILL.md"
     },
     {
       "id": "python-performance-optimization",
@@ -6383,7 +6383,7 @@
         "slow",
         "optimizing"
       ],
-      "path": "plugins\\python-performance-optimization\\SKILL.md"
+      "path": "plugins/python-performance-optimization/SKILL.md"
     },
     {
       "id": "python-pro",
@@ -6407,7 +6407,7 @@
         "including",
         "uv"
       ],
-      "path": "plugins\\python-pro\\SKILL.md"
+      "path": "plugins/python-pro/SKILL.md"
     },
     {
       "id": "python-testing-patterns",
@@ -6431,7 +6431,7 @@
         "setting",
         "up"
       ],
-      "path": "plugins\\python-testing-patterns\\SKILL.md"
+      "path": "plugins/python-testing-patterns/SKILL.md"
     },
     {
       "id": "quant-analyst",
@@ -6456,7 +6456,7 @@
         "risk",
         "metrics"
       ],
-      "path": "plugins\\quant-analyst\\SKILL.md"
+      "path": "plugins/quant-analyst/SKILL.md"
     },
     {
       "id": "rag-implementation",
@@ -6480,7 +6480,7 @@
         "implementing",
         "knowledge"
       ],
-      "path": "plugins\\rag-implementation\\SKILL.md"
+      "path": "plugins/rag-implementation/SKILL.md"
     },
     {
       "id": "react-modernization",
@@ -6505,7 +6505,7 @@
         "adopt",
         "concurrent"
       ],
-      "path": "plugins\\react-modernization\\SKILL.md"
+      "path": "plugins/react-modernization/SKILL.md"
     },
     {
       "id": "react-native-architecture",
@@ -6531,7 +6531,7 @@
         "platform",
         "developing"
       ],
-      "path": "plugins\\react-native-architecture\\SKILL.md"
+      "path": "plugins/react-native-architecture/SKILL.md"
     },
     {
       "id": "react-state-management",
@@ -6556,7 +6556,7 @@
         "managing",
         "server"
       ],
-      "path": "plugins\\react-state-management\\SKILL.md"
+      "path": "plugins/react-state-management/SKILL.md"
     },
     {
       "id": "reference-builder",
@@ -6581,7 +6581,7 @@
         "listings",
         "configuration"
       ],
-      "path": "plugins\\reference-builder\\SKILL.md"
+      "path": "plugins/reference-builder/SKILL.md"
     },
     {
       "id": "reverse-engineer",
@@ -6605,7 +6605,7 @@
         "pro",
         "ghidra"
       ],
-      "path": "plugins\\reverse-engineer\\SKILL.md"
+      "path": "plugins/reverse-engineer/SKILL.md"
     },
     {
       "id": "risk-manager",
@@ -6630,7 +6630,7 @@
         "expectancy",
         "implements"
       ],
-      "path": "plugins\\risk-manager\\SKILL.md"
+      "path": "plugins/risk-manager/SKILL.md"
     },
     {
       "id": "risk-metrics-calculation",
@@ -6656,7 +6656,7 @@
         "drawdown",
         "analysis"
       ],
-      "path": "plugins\\risk-metrics-calculation\\SKILL.md"
+      "path": "plugins/risk-metrics-calculation/SKILL.md"
     },
     {
       "id": "ruby-pro",
@@ -6680,7 +6680,7 @@
         "gem",
         "development"
       ],
-      "path": "plugins\\ruby-pro\\SKILL.md"
+      "path": "plugins/ruby-pro/SKILL.md"
     },
     {
       "id": "rust-async-patterns",
@@ -6705,7 +6705,7 @@
         "implementing",
         "debugging"
       ],
-      "path": "plugins\\rust-async-patterns\\SKILL.md"
+      "path": "plugins/rust-async-patterns/SKILL.md"
     },
     {
       "id": "rust-pro",
@@ -6729,7 +6729,7 @@
         "tokio",
         "axum"
       ],
-      "path": "plugins\\rust-pro\\SKILL.md"
+      "path": "plugins/rust-pro/SKILL.md"
     },
     {
       "id": "saga-orchestration",
@@ -6753,7 +6753,7 @@
         "processes",
         "handling"
       ],
-      "path": "plugins\\saga-orchestration\\SKILL.md"
+      "path": "plugins/saga-orchestration/SKILL.md"
     },
     {
       "id": "sales-automator",
@@ -6778,7 +6778,7 @@
         "pages",
         "case"
       ],
-      "path": "plugins\\sales-automator\\SKILL.md"
+      "path": "plugins/sales-automator/SKILL.md"
     },
     {
       "id": "sast-configuration",
@@ -6803,7 +6803,7 @@
         "code",
         "setting"
       ],
-      "path": "plugins\\sast-configuration\\SKILL.md"
+      "path": "plugins/sast-configuration/SKILL.md"
     },
     {
       "id": "scala-pro",
@@ -6827,7 +6827,7 @@
         "processing",
         "apache"
       ],
-      "path": "plugins\\scala-pro\\SKILL.md"
+      "path": "plugins/scala-pro/SKILL.md"
     },
     {
       "id": "screen-reader-testing",
@@ -6852,7 +6852,7 @@
         "jaws",
         "validating"
       ],
-      "path": "plugins\\screen-reader-testing\\SKILL.md"
+      "path": "plugins/screen-reader-testing/SKILL.md"
     },
     {
       "id": "search-specialist",
@@ -6876,7 +6876,7 @@
         "source",
         "verification"
       ],
-      "path": "plugins\\search-specialist\\SKILL.md"
+      "path": "plugins/search-specialist/SKILL.md"
     },
     {
       "id": "secrets-management",
@@ -6900,7 +6900,7 @@
         "solutions",
         "handling"
       ],
-      "path": "plugins\\secrets-management\\SKILL.md"
+      "path": "plugins/secrets-management/SKILL.md"
     },
     {
       "id": "security-auditor",
@@ -6925,7 +6925,7 @@
         "threat",
         "modeling"
       ],
-      "path": "plugins\\security-auditor\\SKILL.md"
+      "path": "plugins/security-auditor/SKILL.md"
     },
     {
       "id": "security-compliance-compliance-check",
@@ -6951,7 +6951,7 @@
         "soc2",
         "pci"
       ],
-      "path": "plugins\\security-compliance-compliance-check\\SKILL.md"
+      "path": "plugins/security-compliance-compliance-check/SKILL.md"
     },
     {
       "id": "security-requirement-extraction",
@@ -6977,7 +6977,7 @@
         "threats",
         "actionable"
       ],
-      "path": "plugins\\security-requirement-extraction\\SKILL.md"
+      "path": "plugins/security-requirement-extraction/SKILL.md"
     },
     {
       "id": "security-scanning-security-dependencies",
@@ -7003,7 +7003,7 @@
         "chain",
         "scan"
       ],
-      "path": "plugins\\security-scanning-security-dependencies\\SKILL.md"
+      "path": "plugins/security-scanning-security-dependencies/SKILL.md"
     },
     {
       "id": "security-scanning-security-hardening",
@@ -7027,7 +7027,7 @@
         "compliance",
         "controls"
       ],
-      "path": "plugins\\security-scanning-security-hardening\\SKILL.md"
+      "path": "plugins/security-scanning-security-hardening/SKILL.md"
     },
     {
       "id": "security-scanning-security-sast",
@@ -7053,7 +7053,7 @@
         "languages",
         "frameworks"
       ],
-      "path": "plugins\\security-scanning-security-sast\\SKILL.md"
+      "path": "plugins/security-scanning-security-sast/SKILL.md"
     },
     {
       "id": "seo-authority-builder",
@@ -7079,7 +7079,7 @@
         "missing",
         "credibility"
       ],
-      "path": "plugins\\seo-authority-builder\\SKILL.md"
+      "path": "plugins/seo-authority-builder/SKILL.md"
     },
     {
       "id": "seo-cannibalization-detector",
@@ -7105,7 +7105,7 @@
         "potential",
         "issues"
       ],
-      "path": "plugins\\seo-cannibalization-detector\\SKILL.md"
+      "path": "plugins/seo-cannibalization-detector/SKILL.md"
     },
     {
       "id": "seo-content-auditor",
@@ -7131,7 +7131,7 @@
         "recommendations",
         "established"
       ],
-      "path": "plugins\\seo-content-auditor\\SKILL.md"
+      "path": "plugins/seo-content-auditor/SKILL.md"
     },
     {
       "id": "seo-content-planner",
@@ -7157,7 +7157,7 @@
         "gaps",
         "proactively"
       ],
-      "path": "plugins\\seo-content-planner\\SKILL.md"
+      "path": "plugins/seo-content-planner/SKILL.md"
     },
     {
       "id": "seo-content-refresher",
@@ -7183,7 +7183,7 @@
         "freshness",
         "finds"
       ],
-      "path": "plugins\\seo-content-refresher\\SKILL.md"
+      "path": "plugins/seo-content-refresher/SKILL.md"
     },
     {
       "id": "seo-content-writer",
@@ -7209,7 +7209,7 @@
         "engaging",
         "following"
       ],
-      "path": "plugins\\seo-content-writer\\SKILL.md"
+      "path": "plugins/seo-content-writer/SKILL.md"
     },
     {
       "id": "seo-keyword-strategist",
@@ -7235,7 +7235,7 @@
         "semantic",
         "variations"
       ],
-      "path": "plugins\\seo-keyword-strategist\\SKILL.md"
+      "path": "plugins/seo-keyword-strategist/SKILL.md"
     },
     {
       "id": "seo-meta-optimizer",
@@ -7261,7 +7261,7 @@
         "limits",
         "generates"
       ],
-      "path": "plugins\\seo-meta-optimizer\\SKILL.md"
+      "path": "plugins/seo-meta-optimizer/SKILL.md"
     },
     {
       "id": "seo-snippet-hunter",
@@ -7287,7 +7287,7 @@
         "creates",
         "optimized"
       ],
-      "path": "plugins\\seo-snippet-hunter\\SKILL.md"
+      "path": "plugins/seo-snippet-hunter/SKILL.md"
     },
     {
       "id": "seo-structure-architect",
@@ -7312,7 +7312,7 @@
         "schema",
         "markup"
       ],
-      "path": "plugins\\seo-structure-architect\\SKILL.md"
+      "path": "plugins/seo-structure-architect/SKILL.md"
     },
     {
       "id": "service-mesh-expert",
@@ -7337,7 +7337,7 @@
         "traffic",
         "security"
       ],
-      "path": "plugins\\service-mesh-expert\\SKILL.md"
+      "path": "plugins/service-mesh-expert/SKILL.md"
     },
     {
       "id": "service-mesh-observability",
@@ -7363,7 +7363,7 @@
         "up",
         "monitoring"
       ],
-      "path": "plugins\\service-mesh-observability\\SKILL.md"
+      "path": "plugins/service-mesh-observability/SKILL.md"
     },
     {
       "id": "shellcheck-configuration",
@@ -7388,7 +7388,7 @@
         "linting",
         "infrastructure"
       ],
-      "path": "plugins\\shellcheck-configuration\\SKILL.md"
+      "path": "plugins/shellcheck-configuration/SKILL.md"
     },
     {
       "id": "similarity-search-patterns",
@@ -7413,7 +7413,7 @@
         "queries",
         "optimizing"
       ],
-      "path": "plugins\\similarity-search-patterns\\SKILL.md"
+      "path": "plugins/similarity-search-patterns/SKILL.md"
     },
     {
       "id": "slo-implementation",
@@ -7437,7 +7437,7 @@
         "establishing",
         "reliability"
       ],
-      "path": "plugins\\slo-implementation\\SKILL.md"
+      "path": "plugins/slo-implementation/SKILL.md"
     },
     {
       "id": "solidity-security",
@@ -7462,7 +7462,7 @@
         "auditing",
         "existing"
       ],
-      "path": "plugins\\solidity-security\\SKILL.md"
+      "path": "plugins/solidity-security/SKILL.md"
     },
     {
       "id": "spark-optimization",
@@ -7487,7 +7487,7 @@
         "improving",
         "performance"
       ],
-      "path": "plugins\\spark-optimization\\SKILL.md"
+      "path": "plugins/spark-optimization/SKILL.md"
     },
     {
       "id": "sql-optimization-patterns",
@@ -7512,7 +7512,7 @@
         "eliminate",
         "slow"
       ],
-      "path": "plugins\\sql-optimization-patterns\\SKILL.md"
+      "path": "plugins/sql-optimization-patterns/SKILL.md"
     },
     {
       "id": "sql-pro",
@@ -7536,7 +7536,7 @@
         "performance",
         "tuning"
       ],
-      "path": "plugins\\sql-pro\\SKILL.md"
+      "path": "plugins/sql-pro/SKILL.md"
     },
     {
       "id": "startup-analyst",
@@ -7561,7 +7561,7 @@
         "strategic",
         "planning"
       ],
-      "path": "plugins\\startup-analyst\\SKILL.md"
+      "path": "plugins/startup-analyst/SKILL.md"
     },
     {
       "id": "startup-business-analyst-business-case",
@@ -7586,7 +7586,7 @@
         "solution",
         "financials"
       ],
-      "path": "plugins\\startup-business-analyst-business-case\\SKILL.md"
+      "path": "plugins/startup-business-analyst-business-case/SKILL.md"
     },
     {
       "id": "startup-business-analyst-financial-projections",
@@ -7614,7 +7614,7 @@
         "cash",
         "flow"
       ],
-      "path": "plugins\\startup-business-analyst-financial-projections\\SKILL.md"
+      "path": "plugins/startup-business-analyst-financial-projections/SKILL.md"
     },
     {
       "id": "startup-business-analyst-market-opportunity",
@@ -7641,7 +7641,7 @@
         "som",
         "calculations"
       ],
-      "path": "plugins\\startup-business-analyst-market-opportunity\\SKILL.md"
+      "path": "plugins/startup-business-analyst-market-opportunity/SKILL.md"
     },
     {
       "id": "startup-financial-modeling",
@@ -7667,7 +7667,7 @@
         "forecast",
         "revenue"
       ],
-      "path": "plugins\\startup-financial-modeling\\SKILL.md"
+      "path": "plugins/startup-financial-modeling/SKILL.md"
     },
     {
       "id": "startup-metrics-framework",
@@ -7693,7 +7693,7 @@
         "saas",
         "cac"
       ],
-      "path": "plugins\\startup-metrics-framework\\SKILL.md"
+      "path": "plugins/startup-metrics-framework/SKILL.md"
     },
     {
       "id": "stride-analysis-patterns",
@@ -7717,7 +7717,7 @@
         "threat",
         "modeling"
       ],
-      "path": "plugins\\stride-analysis-patterns\\SKILL.md"
+      "path": "plugins/stride-analysis-patterns/SKILL.md"
     },
     {
       "id": "stripe-integration",
@@ -7742,7 +7742,7 @@
         "subscriptions",
         "webhooks"
       ],
-      "path": "plugins\\stripe-integration\\SKILL.md"
+      "path": "plugins/stripe-integration/SKILL.md"
     },
     {
       "id": "systems-programming-rust-project",
@@ -7767,7 +7767,7 @@
         "tooling",
         "proper"
       ],
-      "path": "plugins\\systems-programming-rust-project\\SKILL.md"
+      "path": "plugins/systems-programming-rust-project/SKILL.md"
     },
     {
       "id": "tailwind-design-system",
@@ -7790,7 +7790,7 @@
         "standardizing",
         "ui"
       ],
-      "path": "plugins\\tailwind-design-system\\SKILL.md"
+      "path": "plugins/tailwind-design-system/SKILL.md"
     },
     {
       "id": "tdd-orchestrator",
@@ -7815,7 +7815,7 @@
         "test",
         "driven"
       ],
-      "path": "plugins\\tdd-orchestrator\\SKILL.md"
+      "path": "plugins/tdd-orchestrator/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-cycle",
@@ -7831,7 +7831,7 @@
         "cycle",
         "working"
       ],
-      "path": "plugins\\tdd-workflows-tdd-cycle\\SKILL.md"
+      "path": "plugins/tdd-workflows-tdd-cycle/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-green",
@@ -7853,7 +7853,7 @@
         "pass",
         "phase"
       ],
-      "path": "plugins\\tdd-workflows-tdd-green\\SKILL.md"
+      "path": "plugins/tdd-workflows-tdd-green/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-red",
@@ -7877,7 +7877,7 @@
         "edge",
         "cases"
       ],
-      "path": "plugins\\tdd-workflows-tdd-red\\SKILL.md"
+      "path": "plugins/tdd-workflows-tdd-red/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-refactor",
@@ -7893,7 +7893,7 @@
         "refactor",
         "working"
       ],
-      "path": "plugins\\tdd-workflows-tdd-refactor\\SKILL.md"
+      "path": "plugins/tdd-workflows-tdd-refactor/SKILL.md"
     },
     {
       "id": "team-collaboration-issue",
@@ -7919,7 +7919,7 @@
         "collaborative",
         "development"
       ],
-      "path": "plugins\\team-collaboration-issue\\SKILL.md"
+      "path": "plugins/team-collaboration-issue/SKILL.md"
     },
     {
       "id": "team-collaboration-standup-notes",
@@ -7946,7 +7946,7 @@
         "generation",
         "commit"
       ],
-      "path": "plugins\\team-collaboration-standup-notes\\SKILL.md"
+      "path": "plugins/team-collaboration-standup-notes/SKILL.md"
     },
     {
       "id": "team-composition-analysis",
@@ -7971,7 +7971,7 @@
         "determine",
         "hiring"
       ],
-      "path": "plugins\\team-composition-analysis\\SKILL.md"
+      "path": "plugins/team-composition-analysis/SKILL.md"
     },
     {
       "id": "temporal-python-pro",
@@ -7996,7 +7996,7 @@
         "covers",
         "async"
       ],
-      "path": "plugins\\temporal-python-pro\\SKILL.md"
+      "path": "plugins/temporal-python-pro/SKILL.md"
     },
     {
       "id": "temporal-python-testing",
@@ -8021,7 +8021,7 @@
         "integration",
         "replay"
       ],
-      "path": "plugins\\temporal-python-testing\\SKILL.md"
+      "path": "plugins/temporal-python-testing/SKILL.md"
     },
     {
       "id": "terraform-module-library",
@@ -8047,7 +8047,7 @@
         "code",
         "creating"
       ],
-      "path": "plugins\\terraform-module-library\\SKILL.md"
+      "path": "plugins/terraform-module-library/SKILL.md"
     },
     {
       "id": "terraform-specialist",
@@ -8071,7 +8071,7 @@
         "multi",
         "cloud"
       ],
-      "path": "plugins\\terraform-specialist\\SKILL.md"
+      "path": "plugins/terraform-specialist/SKILL.md"
     },
     {
       "id": "test-automator",
@@ -8095,7 +8095,7 @@
         "engineering",
         "scalable"
       ],
-      "path": "plugins\\test-automator\\SKILL.md"
+      "path": "plugins/test-automator/SKILL.md"
     },
     {
       "id": "threat-mitigation-mapping",
@@ -8121,7 +8121,7 @@
         "prioritizing",
         "investments"
       ],
-      "path": "plugins\\threat-mitigation-mapping\\SKILL.md"
+      "path": "plugins/threat-mitigation-mapping/SKILL.md"
     },
     {
       "id": "threat-modeling-expert",
@@ -8146,7 +8146,7 @@
         "pasta",
         "attack"
       ],
-      "path": "plugins\\threat-modeling-expert\\SKILL.md"
+      "path": "plugins/threat-modeling-expert/SKILL.md"
     },
     {
       "id": "track-management",
@@ -8170,7 +8170,7 @@
         "features",
         "bugs"
       ],
-      "path": "plugins\\track-management\\SKILL.md"
+      "path": "plugins/track-management/SKILL.md"
     },
     {
       "id": "turborepo-caching",
@@ -8195,7 +8195,7 @@
         "pipelines",
         "implementing"
       ],
-      "path": "plugins\\turborepo-caching\\SKILL.md"
+      "path": "plugins/turborepo-caching/SKILL.md"
     },
     {
       "id": "tutorial-engineer",
@@ -8219,7 +8219,7 @@
         "concepts",
         "progressive"
       ],
-      "path": "plugins\\tutorial-engineer\\SKILL.md"
+      "path": "plugins/tutorial-engineer/SKILL.md"
     },
     {
       "id": "typescript-advanced-types",
@@ -8245,7 +8245,7 @@
         "building",
         "safe"
       ],
-      "path": "plugins\\typescript-advanced-types\\SKILL.md"
+      "path": "plugins/typescript-advanced-types/SKILL.md"
     },
     {
       "id": "typescript-pro",
@@ -8269,7 +8269,7 @@
         "grade",
         "proactively"
       ],
-      "path": "plugins\\typescript-pro\\SKILL.md"
+      "path": "plugins/typescript-pro/SKILL.md"
     },
     {
       "id": "ui-ux-designer",
@@ -8295,7 +8295,7 @@
         "standards",
         "specializes"
       ],
-      "path": "plugins\\ui-ux-designer\\SKILL.md"
+      "path": "plugins/ui-ux-designer/SKILL.md"
     },
     {
       "id": "ui-visual-validator",
@@ -8321,7 +8321,7 @@
         "masters",
         "screenshot"
       ],
-      "path": "plugins\\ui-visual-validator\\SKILL.md"
+      "path": "plugins/ui-visual-validator/SKILL.md"
     },
     {
       "id": "unit-testing-test-generate",
@@ -8345,7 +8345,7 @@
         "edge",
         "case"
       ],
-      "path": "plugins\\unit-testing-test-generate\\SKILL.md"
+      "path": "plugins/unit-testing-test-generate/SKILL.md"
     },
     {
       "id": "unity-developer",
@@ -8369,7 +8369,7 @@
         "lts",
         "urp"
       ],
-      "path": "plugins\\unity-developer\\SKILL.md"
+      "path": "plugins/unity-developer/SKILL.md"
     },
     {
       "id": "unity-ecs-patterns",
@@ -8394,7 +8394,7 @@
         "development",
         "building"
       ],
-      "path": "plugins\\unity-ecs-patterns\\SKILL.md"
+      "path": "plugins/unity-ecs-patterns/SKILL.md"
     },
     {
       "id": "universal-clipboard-vision",
@@ -8420,7 +8420,7 @@
         "debugging",
         "directly"
       ],
-      "path": "plugins\\universal-clipboard-vision\\SKILL.md"
+      "path": "plugins/universal-clipboard-vision/SKILL.md"
     },
     {
       "id": "uv-package-manager",
@@ -8446,7 +8446,7 @@
         "managing",
         "dependencies"
       ],
-      "path": "plugins\\uv-package-manager\\SKILL.md"
+      "path": "plugins/uv-package-manager/SKILL.md"
     },
     {
       "id": "vector-database-engineer",
@@ -8471,7 +8471,7 @@
         "qdrant",
         "milvus"
       ],
-      "path": "plugins\\vector-database-engineer\\SKILL.md"
+      "path": "plugins/vector-database-engineer/SKILL.md"
     },
     {
       "id": "vector-index-tuning",
@@ -8497,7 +8497,7 @@
         "selecting",
         "quantization"
       ],
-      "path": "plugins\\vector-index-tuning\\SKILL.md"
+      "path": "plugins/vector-index-tuning/SKILL.md"
     },
     {
       "id": "wcag-audit-patterns",
@@ -8522,7 +8522,7 @@
         "guidance",
         "auditing"
       ],
-      "path": "plugins\\wcag-audit-patterns\\SKILL.md"
+      "path": "plugins/wcag-audit-patterns/SKILL.md"
     },
     {
       "id": "web3-testing",
@@ -8546,7 +8546,7 @@
         "integration",
         "mainnet"
       ],
-      "path": "plugins\\web3-testing\\SKILL.md"
+      "path": "plugins/web3-testing/SKILL.md"
     },
     {
       "id": "workflow-orchestration-patterns",
@@ -8568,7 +8568,7 @@
         "determinism",
         "constraints"
       ],
-      "path": "plugins\\workflow-orchestration-patterns\\SKILL.md"
+      "path": "plugins/workflow-orchestration-patterns/SKILL.md"
     },
     {
       "id": "workflow-patterns",
@@ -8590,7 +8590,7 @@
         "git",
         "commits"
       ],
-      "path": "plugins\\workflow-patterns\\SKILL.md"
+      "path": "plugins/workflow-patterns/SKILL.md"
     }
   ]
 }
