@@ -1,8 +1,8 @@
 # Skill Catalog
 
-Generated at: 2026-08-03T10:31:18.825Z
+Generated at: 2026-09-07T09:00:53.895Z
 
-Total skills: 347
+Total skills: 348
 
 ## architecture (31)
 
@@ -168,7 +168,7 @@ Total skills: 347
 | `typescript-pro` | Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTI... | typescript | typescript, pro, types, generics, strict, type, safety, complex, decorators, enterprise, grade, proactively |
 | `uv-package-manager` | Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python pr... | uv, package, manager | uv, package, manager, fast, python, dependency, virtual, environments, setting, up, managing, dependencies |
 
-## general (49)
+## general (50)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -218,6 +218,7 @@ Total skills: 347
 | `posix-shell-pro` | Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (das... | posix, shell | posix, shell, pro, strict, sh, scripting, maximum, portability, unix, like, specializes, scripts |
 | `search-specialist` | Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles comp... | search | search, web, researcher, techniques, synthesis, masters, operators, result, filtering, multi, source, verification |
 | `shellcheck-configuration` | Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuri... | shellcheck, configuration | shellcheck, configuration, static, analysis, usage, shell, script, quality, setting, up, linting, infrastructure |
+| `skill-porter` | Imports, converts, and optimizes external agent skills (Claude Code, Cursor, generic LLMs) into native Google Antigravity plugins and skills with parallel in... | skill, porter | skill, porter, imports, converts, optimizes, external, agent, skills, claude, code, cursor, generic |
 | `turborepo-caching` | Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing d... | turborepo, caching | turborepo, caching, configure, efficient, monorepo, local, remote, setting, up, optimizing, pipelines, implementing |
 | `tutorial-engineer` | Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. U... | tutorial | tutorial, engineer, creates, step, tutorials, educational, content, code, transforms, complex, concepts, progressive |
 | `ui-ux-designer` | Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design toke... | ui, ux, designer | ui, ux, designer, interface, designs, wireframes, masters, user, research, accessibility, standards, specializes |

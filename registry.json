@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T10:31:18.825Z",
-  "total": 347,
+  "generatedAt": "2026-09-07T09:00:53.895Z",
+  "total": 348,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -7414,6 +7414,31 @@
         "optimizing"
       ],
       "path": "plugins/similarity-search-patterns/SKILL.md"
+    },
+    {
+      "id": "skill-porter",
+      "name": "skill-porter",
+      "description": "Imports, converts, and optimizes external agent skills (Claude Code, Cursor, generic LLMs) into native Google Antigravity plugins and skills with parallel invoke_subagent arrays and artifact generation.",
+      "category": "general",
+      "tags": [
+        "skill",
+        "porter"
+      ],
+      "triggers": [
+        "skill",
+        "porter",
+        "imports",
+        "converts",
+        "optimizes",
+        "external",
+        "agent",
+        "skills",
+        "claude",
+        "code",
+        "cursor",
+        "generic"
+      ],
+      "path": "plugins/skill-porter/SKILL.md"
     },
     {
       "id": "slo-implementation",
