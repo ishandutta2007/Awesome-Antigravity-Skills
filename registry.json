@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T09:00:53.895Z",
-  "total": 348,
+  "generatedAt": "2026-09-14T02:25:07.662Z",
+  "total": 349,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -8347,6 +8347,31 @@
         "screenshot"
       ],
       "path": "plugins/ui-visual-validator/SKILL.md"
+    },
+    {
+      "id": "understand-project-yylo",
+      "name": "understand-project-yylo",
+      "description": "Inspects a repository's architecture, dependencies, and validation loops before planning or implementing a requested change, so agent edits stay grounded in how the product actually works. Antigravity port of the YYLO understand-project skill.",
+      "category": "architecture",
+      "tags": [
+        "understand",
+        "yylo"
+      ],
+      "triggers": [
+        "understand",
+        "yylo",
+        "inspects",
+        "repository",
+        "architecture",
+        "dependencies",
+        "validation",
+        "loops",
+        "before",
+        "planning",
+        "implementing",
+        "requested"
+      ],
+      "path": "plugins/understand-project-yylo/SKILL.md"
     },
     {
       "id": "unit-testing-test-generate",
