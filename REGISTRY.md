@@ -1,10 +1,10 @@
 # Skill Catalog
 
-Generated at: 2026-09-07T09:00:53.895Z
+Generated at: 2026-09-14T02:25:07.662Z
 
-Total skills: 348
+Total skills: 349
 
-## architecture (31)
+## architecture (32)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -36,6 +36,7 @@ Total skills: 348
 | `projection-patterns` | Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in ... | projection | projection, read, models, projections, event, streams, implementing, cqrs, sides, building, materialized, views |
 | `saga-orchestration` | Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordinating multi-step business processes, handling compensatin... | saga | saga, orchestration, distributed, transactions, cross, aggregate, coordinating, multi, step, business, processes, handling |
 | `tailwind-design-system` | Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implemen... | tailwind | tailwind, scalable, css, tokens, component, libraries, responsive, creating, implementing, standardizing, ui |
+| `understand-project-yylo` | Inspects a repository's architecture, dependencies, and validation loops before planning or implementing a requested change, so agent edits stay grounded in ... | understand, yylo | understand, yylo, inspects, repository, architecture, dependencies, validation, loops, before, planning, implementing, requested |
 | `wcag-audit-patterns` | Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance. Use when auditing websites for accessibility, fi... | wcag, audit | wcag, audit, conduct, accessibility, audits, automated, testing, manual, verification, remediation, guidance, auditing |
 | `workflow-orchestration-patterns` | Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separation, saga patterns, state management, and determinism cons... |  | orchestration, durable, temporal, distributed, covers, vs, activity, separation, saga, state, determinism, constraints |
 | `workflow-patterns` | Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpoints, managing git commits for tasks, or understanding th... |  | skill, implementing, tasks, according, conductor, tdd, handling, phase, checkpoints, managing, git, commits |
